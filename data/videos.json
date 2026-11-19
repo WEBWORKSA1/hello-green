@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T06:24:17.578Z",
+ "updated": "2026-11-19T20:32:29.695Z",
  "channels": {
   "UndecidedMF": "UCjtUS7-SZTi6pXjUbzGHQCg",
   "JustHaveaThink": "UCRBwLPbXGsI2cJe9W1zfSjQ",
@@ -13,6 +13,12 @@
   "Shelbizleee": "UC447BcfEhFjDDC8UZ9Pr8jw"
  },
  "items": [
+  {
+   "id": "FcbwVXk83U8",
+   "title": "It's a Fiber Optic Christmas (or... was)",
+   "channel": "Technology Connections",
+   "published": "2026-11-19T14:59:21.000Z"
+  },
   {
    "id": "pH0TiAThWRw",
    "title": "BMW i3: 500 Mile Monster Is the Best Electric Car I’ve Ever Driven!",
@@ -150,12 +156,6 @@
    "title": "America Hates Bikes",
    "channel": "Climate Town",
    "published": "2026-08-27T16:00:27.000Z"
-  },
-  {
-   "id": "F_7B2shTPPU",
-   "title": "My water heater is cooler than yours",
-   "channel": "Technology Connections",
-   "published": "2026-08-21T17:27:01.000Z"
   },
   {
    "id": "-KqWW9mfSGo",
