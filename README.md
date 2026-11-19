@@ -16,7 +16,6 @@ Green-home savings hub: free calculators, plain-English guides, an incentives di
 | `_scripts/` | Data updater and helpers (not published) |
 | `_project/` | Competitive research log and the phase-wise build prompt (not published) |
 | `.github/workflows/auto-refresh.yml` | Refreshes data every 6 hours and commits changes |
-| `.github/workflows/activate-forms.yml` | One-time form relay activation |
 | `ads.txt` | AdSense publisher declaration |
 
 ## Edit and rebuild
@@ -34,7 +33,7 @@ Pages live in `_src/pages/` (HTML with a JSON meta block). Guides are Markdown i
 
 ## Forms
 
-All forms post to a form-to-email relay. The destination inbox is assembled at runtime and never appears as text in the site. The relay sends a one-time **Activate** email the first time it is used for a domain: run the *Activate form relay* workflow once (or submit any form), then click Activate in that email.
+All forms post to a form-to-email relay (FormSubmit). The destination inbox is assembled at runtime and never appears as text in the site. The first submission from the live site triggers a one-time **Activate** email from FormSubmit: click it, and every form starts delivering. After activation FormSubmit also offers a random alias for the inbox; paste it into `relay()` in `assets/js/site.js` so even the network request no longer carries the address.
 
 ## Payments for supporters
 

@@ -29,7 +29,7 @@ export function renderVideos(items = [], limit = 8) {
   return items.slice(0, limit).map((v) => `
 <li class="video-item">
   <button class="yt-lite" type="button" data-yt="${esc(v.id)}" aria-label="Play: ${esc(v.title)}">
-    <img src="https://i.ytimg.com/vi/${esc(v.id)}/hqdefault.jpg" alt="" loading="lazy" width="480" height="360">
+    <img src="https://i.ytimg.com/vi/${esc(v.id)}/hqdefault.jpg" alt="" loading="lazy" width="480" height="360" onerror="this.style.visibility='hidden'">
     <span class="yt-play" aria-hidden="true"></span>
   </button>
   <h3 class="video-title">${esc(v.title)}</h3>

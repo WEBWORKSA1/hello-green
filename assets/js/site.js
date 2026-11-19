@@ -279,7 +279,7 @@
   }
   function videoHTML(items) {
     return items.map(function (v) {
-      return '<li class="video-item"><button class="yt-lite" type="button" data-yt="' + HG.esc(v.id) + '" aria-label="Play: ' + HG.esc(v.title) + '"><img src="https://i.ytimg.com/vi/' + HG.esc(v.id) + '/hqdefault.jpg" alt="" loading="lazy" width="480" height="360"><span class="yt-play" aria-hidden="true"></span></button><h3 class="video-title">' + HG.esc(v.title) + '</h3><p class="video-meta">' + HG.esc(v.channel) + ' <time datetime="' + HG.esc(v.published) + '">' + HG.fmtDate(v.published) + '</time></p></li>';
+      return '<li class="video-item"><button class="yt-lite" type="button" data-yt="' + HG.esc(v.id) + '" aria-label="Play: ' + HG.esc(v.title) + '"><img src="https://i.ytimg.com/vi/' + HG.esc(v.id) + '/hqdefault.jpg" alt="" loading="lazy" width="480" height="360" onerror="this.style.visibility=\'hidden\'"><span class="yt-play" aria-hidden="true"></span></button><h3 class="video-title">' + HG.esc(v.title) + '</h3><p class="video-meta">' + HG.esc(v.channel) + ' <time datetime="' + HG.esc(v.published) + '">' + HG.fmtDate(v.published) + '</time></p></li>';
     }).join('');
   }
   function liveNews() {
