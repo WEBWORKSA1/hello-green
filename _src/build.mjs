@@ -58,7 +58,7 @@ function buildGuides() {
       toc.push({ id, text: inner.replace(/<[^>]+>/g, '') });
       return `<h2 id="${id}">${inner}</h2>`;
     });
-    html = html.replace(/href="\{root\}/g, `href="${root}`).replace(/<table>/g, '<div class="table-scroll"><table>').replace(/<\/table>/g, '</table></div>');
+    html = html.replace(/href="(?:\{root\}|%7Broot%7D)/g, `href="${root}`).replace(/<table>/g, '<div class="table-scroll"><table>').replace(/<\/table>/g, '</table></div>');
     const facts = (g.facts || '').split('|').map((s) => s.trim()).filter(Boolean);
     const cta = CTAS[g.cta || 'none'];
     const related = (g.related || '').split(',').map((s) => s.trim()).filter(Boolean)
