@@ -1,0 +1,41 @@
+<!--meta {"title":"The 30-day green challenge: one small change a day","description":"Thirty practical changes that cut energy bills, waste and carbon, one per day. Tick them off, track your progress on this device and share your result.","section":"involved","scripts":["assets/js/challenge.js"],"tags":"challenge 30 day green habits eco tracker"} -->
+<section class="page-head">
+  <div class="wrap">
+    <h1>The 30-day green challenge</h1>
+    <p class="lede">One change a day for a month. Most take under ten minutes and save money. Your progress is saved on this device, so come back tomorrow.</p>
+  </div>
+</section>
+<section class="section" style="padding-top:0">
+  <div class="wrap">
+    <p class="label"><span data-done>0</span> of 30 done</p>
+    <div class="progress" aria-hidden="true"><i data-bar></i></div>
+    <ul class="challenge-list" id="challenge-list"></ul>
+    <div class="btn-row" style="margin-top:1.5rem">
+      <button class="btn btn-sun" type="button" data-share>Share my progress</button>
+      <button class="btn btn-ghost" type="button" data-clear>Start over</button>
+    </div>
+    <p class="form-msg ok" data-share-msg role="status" aria-live="polite"></p>
+  </div>
+</section>
+<section class="section band">
+  <div class="wrap split">
+    <div>
+      <h2>Finished the 30 days?</h2>
+      <p>Tell us which change surprised you most. The best stories are featured in our newsletter and can be entered in the current <a href="{{root}}contests.html">contest</a>.</p>
+      <form class="form-card" data-hg-form="Challenge story" novalidate>
+        <div class="field"><label for="ch-name">Your first name</label><input id="ch-name" name="name" type="text" required></div>
+        <div class="field"><label for="ch-email">Email</label><input id="ch-email" name="email" type="email" required></div>
+        <div class="field"><label for="ch-story">What changed for you?</label><textarea id="ch-story" name="story" required maxlength="1500"></textarea></div>
+        <input type="text" name="_honey" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <button class="btn btn-sun" type="submit">Send my story</button>
+        <p class="form-msg" role="status" aria-live="polite"></p>
+      </form>
+    </div>
+    <div class="prose">
+      <h2>Why small changes are worth it</h2>
+      <p>Habits are how bigger decisions start. Households that track their energy for a month usually find one or two surprises, such as a second fridge, a water heater set too hot or a draft they had stopped noticing, and those surprises pay for themselves.</p>
+      <p>The challenge is ordered from easiest to most involved. By the last week you will be pricing the upgrades that make the largest difference: insulation, a heat pump, solar or an EV.</p>
+      <p><a href="{{root}}tools/green-quiz.html">Take the Green Score quiz</a> before and after to see how far you moved.</p>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,181 @@
+<!--meta {"title":"Get free quotes for solar, heat pumps, batteries and more","description":"Request free, no-obligation quotes from up to three vetted local installers for solar panels, home batteries, heat pumps, EV chargers, insulation and energy audits.","section":"quotes","scripts":["assets/js/quotes.js"],"tags":"quotes installers solar heat pump battery ev charger insulation audit lead"} -->
+<section class="page-head">
+  <div class="wrap">
+    <p class="crumbs"><a href="{{root}}">Home</a> <span aria-hidden="true">/</span> Free quotes</p>
+    <h1>Get free quotes from vetted local pros</h1>
+    <p class="lede">Four short steps. You choose what you want priced and how many installers may contact you. No obligation, no call-centre spam.</p>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0">
+  <div class="wrap tool-layout">
+    <div class="form-card">
+      <form id="quote-form" data-hg-form="Quote request" data-custom data-prefill novalidate>
+        <div class="steps-bar" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
+        <p class="step-count" aria-live="polite">Step <span data-step-now>1</span> of 4</p>
+
+        <fieldset class="step" data-step="1">
+          <legend><h2 style="font-size:1.6rem">What would you like priced?</h2></legend>
+          <p class="hint muted">Pick everything you are considering. Installers often bundle work for a better price.</p>
+          <div class="tiles" data-require-one>
+            <label class="tile"><input type="checkbox" name="project" value="solar"><span>Solar panels<small>Cut or erase your power bill</small></span></label>
+            <label class="tile"><input type="checkbox" name="project" value="battery"><span>Home battery<small>Backup power and self-use</small></span></label>
+            <label class="tile"><input type="checkbox" name="project" value="heat-pump"><span>Heat pump<small>Heating and cooling in one</small></span></label>
+            <label class="tile"><input type="checkbox" name="project" value="ev-charger"><span>EV charger<small>Level 2 home charging</small></span></label>
+            <label class="tile"><input type="checkbox" name="project" value="insulation"><span>Insulation &amp; air sealing<small>Attic, walls, drafts</small></span></label>
+            <label class="tile"><input type="checkbox" name="project" value="windows"><span>Windows &amp; doors<small>Efficient replacements</small></span></label>
+            <label class="tile"><input type="checkbox" name="project" value="water-heater"><span>Heat pump water heater<small>Lower hot water costs</small></span></label>
+            <label class="tile"><input type="checkbox" name="project" value="audit"><span>Energy audit<small>Find every leak first</small></span></label>
+          </div>
+          <p class="form-msg err" data-step-msg></p>
+        </fieldset>
+
+        <fieldset class="step" data-step="2" hidden>
+          <legend><h2 style="font-size:1.6rem">About your home</h2></legend>
+          <div class="field">
+            <span class="label">Do you own the home?</span>
+            <div class="btn-row" role="radiogroup">
+              <label class="check"><input type="radio" name="ownership" value="Own" required> I own it</label>
+              <label class="check"><input type="radio" name="ownership" value="Rent"> I rent (we will note landlord approval)</label>
+              <label class="check"><input type="radio" name="ownership" value="Buying"> I am buying one</label>
+            </div>
+          </div>
+          <div class="grid-2">
+            <div class="field">
+              <label for="q-type">Property type</label>
+              <select id="q-type" name="property_type" required>
+                <option value="">Choose one</option>
+                <option>Detached house</option><option>Semi-detached or townhouse</option><option>Condo or apartment</option><option>Mobile or manufactured home</option><option>Small business</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="q-country">Country</label>
+              <select id="q-country" name="country" required>
+                <option value="">Choose one</option>
+                <option>United States</option><option>Canada</option><option>United Kingdom</option><option>India</option><option>Australia</option><option>Other</option>
+              </select>
+            </div>
+          </div>
+          <div class="grid-2">
+            <div class="field">
+              <label for="q-zip">ZIP or postal code</label>
+              <input id="q-zip" name="zip" type="text" autocomplete="postal-code" required maxlength="10">
+            </div>
+            <div class="field">
+              <label for="q-city">City or town</label>
+              <input id="q-city" name="city" type="text" autocomplete="address-level2">
+            </div>
+          </div>
+          <p class="form-msg err" data-step-msg></p>
+        </fieldset>
+
+        <fieldset class="step" data-step="3" hidden>
+          <legend><h2 style="font-size:1.6rem">Energy use and timing</h2></legend>
+          <div class="grid-2">
+            <div class="field">
+              <label for="q-bill">Average monthly electricity bill</label>
+              <input id="q-bill" name="bill" type="number" min="0" step="1" inputmode="decimal" placeholder="e.g. 160">
+            </div>
+            <div class="field">
+              <label for="q-cur">Currency</label>
+              <select id="q-cur" name="currency"><option>USD</option><option>CAD</option><option>GBP</option><option>EUR</option><option>INR</option><option>AUD</option></select>
+            </div>
+          </div>
+          <div class="field" data-show-if="solar,battery">
+            <label for="q-shade">How sunny is your roof?</label>
+            <select id="q-shade" name="roof_shade"><option>Mostly sunny</option><option>Some shade</option><option>Heavy shade</option><option>Not sure</option></select>
+          </div>
+          <div class="field" data-show-if="heat-pump,water-heater">
+            <label for="q-fuel">How do you heat your home today?</label>
+            <select id="q-fuel" name="heating_fuel"><option>Natural gas</option><option>Heating oil</option><option>Propane</option><option>Electric baseboard or furnace</option><option>Older heat pump</option><option>Wood or other</option></select>
+          </div>
+          <div class="grid-2">
+            <div class="field">
+              <label for="q-time">When would you like to start?</label>
+              <select id="q-time" name="timeline" required><option value="">Choose one</option><option>As soon as possible</option><option>Within 3 months</option><option>3 to 6 months</option><option>Just researching</option></select>
+            </div>
+            <div class="field">
+              <label for="q-pay">How would you pay?</label>
+              <select id="q-pay" name="payment"><option>Not sure yet</option><option>Cash or savings</option><option>Loan or financing</option><option>Lease or power purchase agreement</option></select>
+            </div>
+          </div>
+          <div class="field">
+            <label for="q-notes">Anything installers should know? <span class="hint">(optional)</span></label>
+            <textarea id="q-notes" name="notes" maxlength="1000" placeholder="Roof age, panel upgrades, outages, budget..."></textarea>
+          </div>
+          <p class="form-msg err" data-step-msg></p>
+        </fieldset>
+
+        <fieldset class="step" data-step="4" hidden>
+          <legend><h2 style="font-size:1.6rem">Where should quotes go?</h2></legend>
+          <div class="grid-2">
+            <div class="field"><label for="q-first">First name</label><input id="q-first" name="first_name" type="text" autocomplete="given-name" required></div>
+            <div class="field"><label for="q-last">Last name</label><input id="q-last" name="last_name" type="text" autocomplete="family-name" required></div>
+          </div>
+          <div class="grid-2">
+            <div class="field"><label for="q-email">Email</label><input id="q-email" name="email" type="email" autocomplete="email" required></div>
+            <div class="field"><label for="q-phone">Phone <span class="hint">(optional)</span></label><input id="q-phone" name="phone" type="tel" autocomplete="tel"></div>
+          </div>
+          <div class="grid-2">
+            <div class="field">
+              <label for="q-contact">Best way to reach you</label>
+              <select id="q-contact" name="contact_method"><option>Email</option><option>Phone call</option><option>Text message</option></select>
+            </div>
+            <div class="field">
+              <label for="q-pros">How many pros may contact you?</label>
+              <select id="q-pros" name="pros"><option value="1">1 installer</option><option value="2">2 installers</option><option value="3" selected>3 installers</option></select>
+            </div>
+          </div>
+          <label class="check field"><input type="checkbox" name="consent" value="yes" required> <span>I agree that Hello.Green may share this request with the number of vetted partners I chose above, and that they and Hello.Green may contact me about it by the method I picked. Consent is not a condition of any purchase. I can withdraw it at any time.</span></label>
+          <label class="check field"><input type="checkbox" name="newsletter" value="yes"> <span>Also send me the weekly home savings email.</span></label>
+          <input type="text" name="_honey" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+          <p class="form-msg err" data-step-msg></p>
+        </fieldset>
+
+        <div class="step-nav">
+          <button class="btn btn-ghost" type="button" data-back hidden>Back</button>
+          <button class="btn btn-sun" type="button" data-next>Continue</button>
+          <button class="btn btn-sun" type="submit" data-submit hidden>Send my request</button>
+        </div>
+      </form>
+
+      <div id="quote-done" class="form-success" hidden tabindex="-1">
+        <h2>Request sent</h2>
+        <p>Thank you, <span data-name>there</span>. We are matching your request with vetted installers near <span data-zip>you</span>. Expect the first contact within two business days, by the method you chose.</p>
+        <h3>While you wait</h3>
+        <ul>
+          <li><a href="{{root}}guides/solar-worth-it-2026.html">Read how to compare solar quotes</a></li>
+          <li><a href="{{root}}incentives.html">Check incentives in your area</a></li>
+          <li><a href="{{root}}tools/">Run the calculators so you can sanity-check prices</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <aside class="results">
+      <h2>What happens next</h2>
+      <ul class="res-rows">
+        <li><span>We review your request</span><span>Same day</span></li>
+        <li><span>Matched pros contact you</span><span>1–2 business days</span></li>
+        <li><span>Site visit or virtual survey</span><span>Your choice</span></li>
+        <li><span>Written quotes to compare</span><span>Free</span></li>
+      </ul>
+      <h3>Our promises</h3>
+      <p class="sub">Only the number of installers you pick. No auto-dialler lists. Ask us to withdraw your request at any time through the contact page and we will tell every partner to delete it.</p>
+      <h3>Before you sign anything</h3>
+      <p class="sub">Compare price per watt or per kW, equipment brands, warranties, and who handles permits and grants. Our guides walk through each one.</p>
+      <a class="btn btn-ghost" href="{{root}}guides/">Browse guides</a>
+    </aside>
+  </div>
+</section>
+
+<section class="section band" aria-labelledby="qfaq">
+  <div class="wrap narrow">
+    <h2 id="qfaq">Quote questions</h2>
+    <div class="faq">
+      <details><summary>Does it cost anything?</summary><p>No. Requesting quotes is free and there is no obligation. Partner installers pay Hello.Green for introductions, which is how we keep the site free.</p></details>
+      <details><summary>How are installers vetted?</summary><p>Partners must hold the licences and insurance their region requires, have verifiable reviews and agree to our contact rules. We remove partners who break those rules.</p></details>
+      <details><summary>I rent. Can I still ask?</summary><p>Yes. Many upgrades, such as portable heat pumps, plug-in solar where allowed, and smart thermostats, work for renters. For permanent work we note that landlord approval is needed.</p></details>
+      <details><summary>Can I change my mind?</summary><p>Yes. Send a withdrawal request from the <a href="{{root}}contact.html">contact page</a> and we will ask every matched partner to delete your details.</p></details>
+    </div>
+  </div>
+</section>

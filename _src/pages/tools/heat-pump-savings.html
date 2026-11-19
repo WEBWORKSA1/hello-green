@@ -1,0 +1,54 @@
+<!--meta {"title":"Heat pump savings calculator: gas, oil, propane or electric","description":"Compare what you spend heating with gas, oil, propane or electric resistance with the running cost of a heat pump. See yearly savings, payback after grants and CO₂ cut.","section":"tools","scripts":["assets/js/tools/kit.js","assets/js/tools/heatpump.js"],"tags":"heat pump calculator savings gas oil propane cop boiler upgrade scheme payback","schema":{"@context":"https://schema.org","@type":"WebApplication","name":"Hello.Green heat pump savings calculator","applicationCategory":"FinanceApplication","operatingSystem":"Any","offers":{"@type":"Offer","price":"0"}}} -->
+<section class="page-head">
+  <div class="wrap">
+    <p class="crumbs"><a href="{{root}}tools/">Tools</a> <span aria-hidden="true">/</span> Heat pump savings</p>
+    <h1>Heat pump savings calculator</h1>
+    <p class="lede">Enter what heating costs you today. We work out the heat your home actually uses and price it through a heat pump.</p>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0">
+  <div class="wrap tool-layout">
+    <form class="form-card" id="hp-form" novalidate>
+      <div class="grid-2">
+        <div class="field"><label for="h-country">Country</label><select id="h-country" name="country"><option value="US">United States</option><option value="CA">Canada</option><option value="UK">United Kingdom</option><option value="EU">European Union</option><option value="IN">India</option><option value="AU">Australia</option></select></div>
+        <div class="field"><label for="h-fuel">Current heating</label><select id="h-fuel" name="fuel"><option value="gas">Natural gas</option><option value="oil">Heating oil</option><option value="propane">Propane / LPG</option><option value="electric">Electric resistance</option></select></div>
+      </div>
+      <div class="grid-2">
+        <div class="field"><label for="h-spend">What you spend on heating a year</label><input id="h-spend" name="spend" type="number" min="0" step="10" value="1200"><span class="hint">Winter bills minus a typical summer bill gives a good estimate.</span></div>
+        <div class="field" data-fuel-only="gas,oil,propane"><label for="h-price">Fuel price per <span data-unit-label>therm</span></label><input id="h-price" name="price" type="number" min="0" step="0.01" value="1.60"></div>
+      </div>
+      <div class="grid-2">
+        <div class="field" data-fuel-only="gas,oil,propane"><label for="h-unit">Fuel unit</label><select id="h-unit" name="unit"><option value="therm">therm</option><option value="m3">cubic metre (m³)</option><option value="kWh">kWh</option><option value="L">litre</option><option value="gal">US gallon</option></select></div>
+        <div class="field"><label for="h-eff">Current system efficiency (%)</label><input id="h-eff" name="eff" type="number" min="40" max="100" step="1" value="90"><span class="hint">New condensing boilers 90–95, older ones 70–80, electric 100.</span></div>
+      </div>
+      <div class="grid-2">
+        <div class="field"><label for="h-elec">Electricity price per kWh</label><input id="h-elec" name="elec" type="number" min="0" step="0.01" value="0.18"></div>
+        <div class="field"><label for="h-cop">Heat pump seasonal efficiency (COP)</label><input id="h-cop" name="cop" type="number" min="1.5" max="5" step="0.1" value="3"><span class="hint">2.5 in very cold climates, 3–3.5 in mild ones.</span></div>
+      </div>
+      <div class="grid-2">
+        <div class="field"><label for="h-cost">Installed cost</label><input id="h-cost" name="cost" type="number" min="0" step="100" value="15000"></div>
+        <div class="field"><label for="h-grant">Grants and rebates</label><input id="h-grant" name="grant" type="number" min="0" step="100" value="0"><span class="hint">In England and Wales the Boiler Upgrade Scheme gives £7,500.</span></div>
+      </div>
+      <button class="btn btn-ghost btn-sm" type="button" data-reset>Reset</button>
+    </form>
+
+    <aside class="results" aria-live="polite">
+      <h2>Heat pump estimate</h2>
+      <p class="big" data-out="save">–</p>
+      <p class="sub">Estimated change in yearly heating cost</p>
+      <ul class="res-rows" id="hp-rows"></ul>
+      <a class="btn btn-sun" data-quote href="{{root}}quotes.html?project=heat-pump">Get heat pump quotes</a>
+    </aside>
+  </div>
+</section>
+
+<section class="section band">
+  <div class="wrap narrow prose">
+    <h2>How the estimate works</h2>
+    <p>Your yearly spend divided by your fuel price gives the amount of fuel you buy. Multiplying by its energy content and your system’s efficiency gives the useful heat your home needs. A heat pump with a seasonal coefficient of performance (COP) of 3 delivers 3 kWh of heat for every 1 kWh of electricity, so its electricity use is that heat divided by the COP.</p>
+    <p>Energy content used: 29.3 kWh per therm and 10.55 kWh per cubic metre of natural gas, 10.6 kWh per litre of heating oil, 7.0 kWh per litre of propane. Carbon factors: 0.184 kg CO₂ per kWh of gas, 0.25 for oil, 0.215 for propane, plus your country’s average grid factor for electricity.</p>
+    <p>When a heat pump costs more to run, it is usually because gas is cheap relative to electricity where you live. Time-of-use tariffs, a higher-COP model, better insulation and solar panels can all flip the result. A heat pump also replaces your air conditioner, so if your AC is near the end of its life, count the avoided AC cost too.</p>
+    <p>Read the full guide: <a href="{{root}}guides/heat-pumps-explained.html">Heat pumps explained</a>.</p>
+  </div>
+</section>

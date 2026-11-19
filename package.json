@@ -1,0 +1,16 @@
+{
+  "name": "hello-green",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hello.Green static website: green-home tools, guides, incentives and quotes.",
+  "type": "module",
+  "scripts": {
+    "build": "node _src/build.mjs",
+    "update-data": "node _scripts/update-data.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0",
+    "marked": "^14.1.0"
+  },
+  "license": "UNLICENSED"
+}

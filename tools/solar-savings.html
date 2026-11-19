@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en" data-root="../">
+<head>
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Solar savings calculator: size, cost and payback | Hello.Green</title>
+<meta name="description" content="Estimate the solar system size you need, its cost after incentives, your payback year, 25-year savings and CO₂ avoided. Works for the US, Canada, UK, EU, India and Australia.">
+
+<link rel="canonical" href="https://hello.green/tools/solar-savings.html">
+<meta name="theme-color" content="#0f3d2e">
+<meta property="og:site_name" content="Hello.Green">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Solar savings calculator: size, cost and payback | Hello.Green">
+<meta property="og:description" content="Estimate the solar system size you need, its cost after incentives, your payback year, 25-year savings and CO₂ avoided. Works for the US, Canada, UK, EU, India and Australia.">
+<meta property="og:url" content="https://hello.green/tools/solar-savings.html">
+<meta property="og:image" content="https://hello.green/assets/img/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="../assets/img/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../assets/img/icon-192.png">
+<link rel="manifest" href="../manifest.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<link rel="stylesheet" href="../assets/css/site.css?v=20261119">
+<script>try{var t=localStorage.getItem('hg-theme');if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6620975821265271" crossorigin="anonymous"></script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Hello.Green solar savings calculator","applicationCategory":"FinanceApplication","operatingSystem":"Any","offers":{"@type":"Offer","price":"0"}}</script>
+</head>
+<body class="sec-tools ">
+<a class="skip" href="#main">Skip to content</a>
+
+<div class="topbar"><a href="https://web.works/contact" target="_blank" rel="noopener">Contact, if you are interested in this website / domain name / Sponsorship / Advertisement / Partnership</a></div>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="../" aria-label="Hello.Green home"><span>hello</span><i class="brand-dot" aria-hidden="true"></i><span>green</span></a>
+    <nav class="main-nav" id="main-nav" aria-label="Main">
+      <ul class="nav-list">
+        <li><a href="../tools/" aria-current="page">Tools</a></li><li><a href="../guides/">Guides</a></li><li><a href="../incentives.html">Incentives</a></li><li><a href="../news.html">News</a></li><li><a href="../videos.html">Videos</a></li><li><a href="../planet.html">Planet Pulse</a></li>
+        <li class="has-menu">
+          <button class="menu-btn" type="button" aria-expanded="false" aria-controls="involved-menu">Get involved</button>
+          <ul class="sub-menu" id="involved-menu"><li><a href="../support.html"><span>Support Hello.Green</span><small>Fund tools, guides and prizes</small></a></li><li><a href="../contests.html"><span>Contests</span><small>Enter and win green prizes</small></a></li><li><a href="../challenge.html"><span>30-day challenge</span><small>One small change a day</small></a></li><li><a href="../careers.html"><span>Careers</span><small>Write, film, build, sell</small></a></li><li><a href="../advertise.html"><span>Advertise & sponsor</span><small>Reach green homeowners</small></a></li><li><a href="../pros.html"><span>For installers</span><small>Get qualified leads</small></a></li></ul>
+        </li>
+      </ul>
+    </nav>
+    <div class="header-actions">
+      <button class="icon-btn" type="button" data-search-open aria-label="Search the site"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button>
+      <button class="icon-btn" type="button" data-theme-toggle aria-label="Switch dark or light mode"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
+      <a class="btn btn-sun btn-sm header-cta" href="../quotes.html">Get free quotes</a>
+      <button class="icon-btn nav-toggle" type="button" aria-expanded="false" aria-controls="main-nav" aria-label="Open menu"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+    </div>
+  </div>
+</header>
+<main id="main">
+<section class="page-head">
+  <div class="wrap">
+    <p class="crumbs"><a href="../tools/">Tools</a> <span aria-hidden="true">/</span> Solar savings</p>
+    <h1>Solar savings calculator</h1>
+    <p class="lede">Start with your monthly bill. We size a system to match it, price it with your local defaults and show the year it pays for itself.</p>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0">
+  <div class="wrap tool-layout">
+    <form class="form-card" id="solar-form" novalidate>
+      <div class="grid-2">
+        <div class="field">
+          <label for="s-country">Where is the home?</label>
+          <select id="s-country" name="country"><option value="US">United States</option><option value="CA">Canada</option><option value="UK">United Kingdom</option><option value="EU">European Union</option><option value="IN">India</option><option value="AU">Australia</option></select>
+        </div>
+        <div class="field">
+          <label for="s-bill">Monthly electricity bill</label>
+          <input id="s-bill" name="bill" type="number" min="0" step="1" value="160" inputmode="decimal">
+        </div>
+      </div>
+      <div class="grid-2">
+        <div class="field">
+          <label for="s-rate">Price per kWh</label>
+          <input id="s-rate" name="rate" type="number" min="0" step="0.01" value="0.18">
+          <span class="hint">On your bill as “energy charge” or “per kWh”.</span>
+        </div>
+        <div class="field">
+          <label for="s-sun">Peak sun hours per day</label>
+          <input id="s-sun" name="sun" type="number" min="1" max="8" step="0.1" value="4.5">
+          <span class="hint">About 2.5–3 in the UK, 4–5 across most of the US and India, 5.5–6.5 in deserts.</span>
+        </div>
+      </div>
+      <div class="field">
+        <label for="s-offset">Share of your usage to cover: <output id="s-offset-out">90%</output></label>
+        <input id="s-offset" name="offset" type="range" min="40" max="120" step="5" value="90">
+      </div>
+      <div class="grid-2">
+        <div class="field">
+          <label for="s-cpw">Installed cost per watt</label>
+          <input id="s-cpw" name="cpw" type="number" min="0" step="0.05" value="3.00">
+          <span class="hint">Before incentives. Your quotes will show this as price per watt.</span>
+        </div>
+        <div class="field">
+          <label for="s-inc">Rebates and grants (total)</label>
+          <input id="s-inc" name="incentive" type="number" min="0" step="50" value="0">
+          <span class="hint">State, utility or national programs. See our <a href="../incentives.html">incentives page</a>.</span>
+        </div>
+      </div>
+      <label class="check field" data-only="IN"><input type="checkbox" name="pmsg" checked> <span>Apply the PM Surya Ghar subsidy (₹30,000/kW up to 2 kW, ₹18,000/kW for the third, capped at ₹78,000)</span></label>
+      <div class="grid-2">
+        <div class="field">
+          <label for="s-export">Credit for exported power (% of retail)</label>
+          <input id="s-export" name="export" type="number" min="0" max="100" step="5" value="75">
+          <span class="hint">100% with full net metering, often 20–60% under export tariffs.</span>
+        </div>
+        <div class="field">
+          <label for="s-esc">Yearly electricity price rise (%)</label>
+          <input id="s-esc" name="esc" type="number" min="0" max="15" step="0.5" value="3">
+        </div>
+      </div>
+      <button class="btn btn-ghost btn-sm" type="button" data-reset>Reset to defaults</button>
+    </form>
+
+    <aside class="results" aria-live="polite">
+      <h2>Your solar estimate</h2>
+      <p class="big" data-out="payback">–</p>
+      <p class="sub">Estimated payback period</p>
+      <ul class="res-rows" id="solar-rows"></ul>
+      <a class="btn btn-sun" data-quote href="../quotes.html?project=solar">Get real solar quotes</a>
+      <p class="sub" style="margin-top:1rem;font-size:.9rem">Quotes from up to three vetted installers. Free, and you pick who contacts you.</p>
+    </aside>
+  </div>
+</section>
+
+<section class="section band">
+  <div class="wrap narrow prose">
+    <h2>How this calculator works</h2>
+    <p>We divide your bill by your price per kWh to estimate yearly use, then size a system to cover the share you chose. Output assumes 80% of the panels’ rated power reaches your home after inverter, wiring, heat and dirt losses, and that output falls 0.5% a year as panels age.</p>
+    <p>Savings assume you use about 40% of your solar power as it is made. The rest goes to the grid and is credited at the export rate you set. Fixed monthly charges on your bill do not change with solar, so a bill with a large connection fee will overstate usage slightly. The payback period is when cumulative savings pass the cost after rebates.</p>
+    <p>What it leaves out: financing interest, a possible inverter replacement around year 12–15, roof repairs, time-of-use rates and battery storage. Those can move payback by a few years either way, which is why written quotes matter.</p>
+    <h2>Reading your result</h2>
+    <ul>
+      <li><strong>Under 8 years:</strong> a strong case in most places. Get quotes.</li>
+      <li><strong>8–12 years:</strong> solid if you plan to stay in the home and your roof has 15+ years of life left.</li>
+      <li><strong>Over 12 years:</strong> look at efficiency first, check community solar, or wait for a better price per watt.</li>
+    </ul>
+    <p>For the full picture, read <a href="../guides/solar-worth-it-2026.html">Is solar still worth it in 2026?</a> and <a href="../guides/home-battery-guide.html">our battery guide</a>.</p>
+  </div>
+</section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-top">
+    <div class="footer-about">
+      <a class="brand" href="../" aria-label="Hello.Green home"><span>hello</span><i class="brand-dot" aria-hidden="true"></i><span>green</span></a>
+      <p>Free tools and plain-English guides that help households cut energy bills and carbon, plus a no-pressure way to get quotes from vetted local pros.</p>
+      <form class="footer-news" data-hg-form="newsletter" novalidate>
+        <label for="ft-email">Get the weekly savings email</label>
+        <div class="inline-field">
+          <input id="ft-email" type="email" name="email" autocomplete="email" placeholder="you@example.com" required>
+          <button class="btn btn-sun" type="submit">Subscribe</button>
+        </div>
+        <input type="text" name="_honey" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <p class="form-msg" role="status" aria-live="polite"></p>
+      </form>
+    </div>
+    <div class="footer-cols">
+      <div><h2>Save money</h2><ul><li><a href="../tools/solar-savings.html">Solar savings calculator</a></li><li><a href="../tools/carbon-footprint.html">Carbon footprint calculator</a></li><li><a href="../tools/heat-pump-savings.html">Heat pump savings</a></li><li><a href="../tools/ev-vs-gas.html">EV vs gas cost</a></li><li><a href="../tools/home-energy.html">Home energy quick wins</a></li><li><a href="../tools/recycling-sorter.html">Recycling sorter</a></li><li><a href="../tools/green-quiz.html">Green Score quiz</a></li><li><a href="../quotes.html">Get free quotes</a></li></ul></div>
+      <div><h2>Learn</h2><ul>
+        <li><a href="../guides/">Guides</a></li>
+        <li><a href="../incentives.html">Incentives by country</a></li>
+        <li><a href="../glossary.html">Green glossary</a></li>
+        <li><a href="../news.html">Green news</a></li>
+        <li><a href="../videos.html">Videos</a></li>
+        <li><a href="../planet.html">Planet Pulse</a></li>
+      </ul></div>
+      <div><h2>Get involved</h2><ul><li><a href="../support.html">Support Hello.Green</a></li><li><a href="../contests.html">Contests</a></li><li><a href="../challenge.html">30-day challenge</a></li><li><a href="../careers.html">Careers</a></li><li><a href="../advertise.html">Advertise & sponsor</a></li><li><a href="../pros.html">For installers</a></li></ul></div>
+      <div><h2>Hello.Green</h2><ul>
+        <li><a href="../about.html">About &amp; methodology</a></li>
+        <li><a href="../contact.html">Contact</a></li>
+        <li><a href="../privacy.html">Privacy policy</a></li>
+        <li><a href="../terms.html">Terms of use</a></li>
+        <li><a href="../disclosure.html">Trademark &amp; copyright disclosure</a></li>
+      </ul></div>
+    </div>
+  </div>
+  <div class="wrap footer-legal">
+    <p>© <span data-year>2026</span> Hello.Green. All rights reserved. Hello.Green is an independent publication and is not affiliated with, endorsed by or connected to any company, product or trademark named “Hello Green”, “HelloGreen” or similar. Third-party names and marks belong to their owners. <a href="../disclosure.html">Read the full disclosure</a>.</p>
+    <p>Estimates on this site are for information only and are not financial, tax or legal advice. Check incentives with the official program before you buy.</p>
+  </div>
+</footer>
+<div class="search-overlay" data-search hidden>
+  <div class="search-box" role="dialog" aria-modal="true" aria-label="Search Hello.Green">
+    <div class="search-head">
+      <label class="sr" for="site-search">Search</label>
+      <input id="site-search" type="search" placeholder="Search tools, guides and topics" autocomplete="off">
+      <button class="icon-btn" type="button" data-search-close aria-label="Close search"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+    </div>
+    <ul class="search-results" id="search-results"></ul>
+  </div>
+</div>
+<div class="cookie-note" data-cookie hidden>
+  <p>We use cookies for ads and local storage to remember your calculator inputs. <a href="../privacy.html">Privacy policy</a></p>
+  <button class="btn btn-ghost btn-sm" type="button" data-cookie-ok>Got it</button>
+</div>
+<script src="../assets/js/config.js?v=20261119"></script>
+<script src="../assets/js/site.js?v=20261119" defer></script>
+<script src="../assets/js/tools/kit.js?v=20261119" defer></script>
+<script src="../assets/js/tools/solar.js?v=20261119" defer></script>
+</body>
+</html>

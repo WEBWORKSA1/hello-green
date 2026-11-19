@@ -1,0 +1,94 @@
+<!--meta {"title":"Support Hello.Green","description":"Help keep Hello.Green’s calculators and guides free. Give once or monthly, sponsor as a business, and see exactly where the money goes: operations, promotion, hiring and contest prizes.","section":"involved","scripts":["assets/js/support.js"],"tags":"support donate donation monthly sponsor contribute fund"} -->
+<section class="page-head">
+  <div class="wrap">
+    <h1>Keep the tools free for everyone</h1>
+    <p class="lede">Hello.Green is independent. Supporters fund new calculators, better guides, the promotion that brings them to more households, the people who build them and the prizes in our contests.</p>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0">
+  <div class="wrap tool-layout">
+    <div class="form-card">
+      <form id="support-form" data-hg-form="Support pledge" data-custom novalidate>
+        <div class="mode-switch" role="group" aria-label="Frequency">
+          <button type="button" data-freq="monthly" aria-pressed="true">Monthly</button>
+          <button type="button" data-freq="one-time" aria-pressed="false">One time</button>
+        </div>
+        <input type="hidden" name="frequency" value="monthly">
+        <fieldset>
+          <legend class="label">Choose an amount</legend>
+          <div class="tiers">
+            <label class="tier"><input type="radio" name="amount" value="5"><span><strong>$5</strong><em>Seedling</em><small>Covers hosting and data feeds for a week.</small></span></label>
+            <label class="tier"><input type="radio" name="amount" value="15" checked><span><strong>$15</strong><em>Sapling</em><small>Funds a new incentive update for one country.</small></span></label>
+            <label class="tier"><input type="radio" name="amount" value="50"><span><strong>$50</strong><em>Grove</em><small>Pays for a fact-checked guide refresh.</small></span></label>
+            <label class="tier"><input type="radio" name="amount" value="250"><span><strong>$250</strong><em>Forest</em><small>Funds a month of contest prizes.</small></span></label>
+          </div>
+          <div class="grid-2">
+            <div class="field"><label for="sp-other">Or another amount</label><input id="sp-other" name="other_amount" type="number" min="1" step="1" placeholder="e.g. 25"></div>
+            <div class="field"><label for="sp-cur">Currency</label><select id="sp-cur" name="currency"><option>USD</option><option>CAD</option><option>GBP</option><option>EUR</option><option>INR</option><option>AUD</option></select></div>
+          </div>
+        </fieldset>
+        <div class="field">
+          <label for="sp-fund">Where should it go?</label>
+          <select id="sp-fund" name="allocation">
+            <option>Wherever it is needed most</option>
+            <option>Operations: hosting, data and tools</option>
+            <option>Promotion and marketing</option>
+            <option>Hiring writers, video makers and developers</option>
+            <option>Contest prizes</option>
+          </select>
+        </div>
+        <div class="grid-2">
+          <div class="field"><label for="sp-name">Your name</label><input id="sp-name" name="name" type="text" autocomplete="name" required></div>
+          <div class="field"><label for="sp-email">Email</label><input id="sp-email" name="email" type="email" autocomplete="email" required></div>
+        </div>
+        <label class="check field"><input type="checkbox" name="public_thanks" value="yes"> <span>You may thank me by first name on the supporters list.</span></label>
+        <input type="text" name="_honey" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <button class="btn btn-sun" type="submit" data-support-btn>Continue to secure payment</button>
+        <p class="hint" data-support-hint>We will email you a secure payment link within one business day. Nothing is charged until you confirm.</p>
+        <p class="form-msg" role="status" aria-live="polite"></p>
+      </form>
+      <div id="support-done" hidden tabindex="-1">
+        <h2>Thank you</h2>
+        <p>Your pledge is recorded. Watch your inbox for a secure payment link and a receipt. Your support goes exactly where you chose.</p>
+      </div>
+    </div>
+    <aside class="results">
+      <h2>Where the money goes</h2>
+      <p class="sub">Our target split for supporter funds:</p>
+      <div class="split-bar" aria-hidden="true"><i style="width:35%;background:#f5c518"></i><i style="width:25%;background:#7ccf9c"></i><i style="width:25%;background:#9fcde0"></i><i style="width:15%;background:#e7a77e"></i></div>
+      <ul class="legend">
+        <li><b style="background:#f5c518"></b>35% operations: hosting, data feeds, tools and fact-checking</li>
+        <li><b style="background:#7ccf9c"></b>25% promotion and marketing to reach more households</li>
+        <li><b style="background:#9fcde0"></b>25% hiring writers, video makers and developers</li>
+        <li><b style="background:#e7a77e"></b>15% contest prizes and community events</li>
+      </ul>
+      <p class="sub" style="margin-top:1.2rem">Hello.Green is an independent business, not a registered charity, so contributions are not tax-deductible. Supporters get our thanks, early access to new tools and a say in what we build next.</p>
+    </aside>
+  </div>
+</section>
+
+<section class="section band">
+  <div class="wrap split">
+    <div>
+      <h2>Sponsor as a business</h2>
+      <p>Put your brand behind a free tool, a guide series or a contest. Sponsorship is labelled clearly, and paid placement never changes our calculations or recommendations.</p>
+      <ul>
+        <li>Sponsor a calculator for a quarter</li>
+        <li>Fund a contest prize pool</li>
+        <li>Underwrite a country’s incentives updates</li>
+        <li>Corporate matching for employee contributions</li>
+      </ul>
+      <p><a class="btn btn-pine" href="{{root}}advertise.html">Talk to us about sponsorship</a></p>
+    </div>
+    <div>
+      <h2>Other ways to help</h2>
+      <ul>
+        <li>Share a calculator with a friend who is thinking about solar or a heat pump.</li>
+        <li>Send us a correction or a new incentive through the <a href="{{root}}contact.html">contact page</a>.</li>
+        <li>Enter the current <a href="{{root}}contests.html">contest</a> and tell your story.</li>
+        <li>Write, film or build with us: see <a href="{{root}}careers.html">open roles</a>.</li>
+      </ul>
+    </div>
+  </div>
+</section>

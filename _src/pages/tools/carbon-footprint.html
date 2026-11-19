@@ -1,0 +1,127 @@
+<!--meta {"title":"Carbon footprint calculator for your household","description":"Estimate your yearly carbon footprint from home energy, driving, flights, food and shopping. Quick or detailed mode, compared with your country and with climate targets.","section":"tools","scripts":["assets/js/tools/kit.js","assets/js/tools/carbon.js"],"tags":"carbon footprint calculator co2 emissions household tonnes flights diet","schema":{"@context":"https://schema.org","@type":"WebApplication","name":"Hello.Green carbon footprint calculator","applicationCategory":"UtilitiesApplication","operatingSystem":"Any","offers":{"@type":"Offer","price":"0"}}} -->
+<section class="page-head">
+  <div class="wrap">
+    <p class="crumbs"><a href="{{root}}tools/">Tools</a> <span aria-hidden="true">/</span> Carbon footprint</p>
+    <h1>Carbon footprint calculator</h1>
+    <p class="lede">Five questions for a quick estimate, or switch to detailed mode and use the numbers on your bills. Results are per person, per year.</p>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0">
+  <div class="wrap tool-layout">
+    <form class="form-card" id="carbon-form" novalidate>
+      <div class="mode-switch" role="group" aria-label="Calculator mode">
+        <button type="button" data-mode-btn="quick" aria-pressed="true">Quick</button>
+        <button type="button" data-mode-btn="detailed" aria-pressed="false">Detailed</button>
+      </div>
+      <input type="hidden" name="mode" value="quick">
+      <div class="grid-2">
+        <div class="field">
+          <label for="c-country">Country</label>
+          <select id="c-country" name="country"><option value="US">United States</option><option value="CA">Canada</option><option value="UK">United Kingdom</option><option value="EU">European Union</option><option value="IN">India</option><option value="AU">Australia</option></select>
+        </div>
+        <div class="field">
+          <label for="c-people">People in your home</label>
+          <input id="c-people" name="people" type="number" min="1" max="12" step="1" value="2">
+        </div>
+      </div>
+
+      <div data-mode="quick">
+        <h2 style="font-size:1.25rem">Home</h2>
+        <div class="grid-2">
+          <div class="field">
+            <label for="c-home">Home size</label>
+            <select id="c-home" name="home"><option value="small">Apartment or small home</option><option value="average" selected>Average house</option><option value="large">Large house</option></select>
+          </div>
+          <div class="field">
+            <label for="c-heat">Main heating</label>
+            <select id="c-heat" name="heat"><option value="gas">Natural gas</option><option value="oil">Heating oil or propane</option><option value="electric">Electric resistance</option><option value="hp">Heat pump</option><option value="none">Little or no heating</option></select>
+          </div>
+        </div>
+        <h2 style="font-size:1.25rem">Travel</h2>
+        <div class="grid-2">
+          <div class="field">
+            <label for="c-drive">Car distance per week (<span data-dist>km</span>)</label>
+            <input id="c-drive" name="drive_week" type="number" min="0" step="10" value="200">
+          </div>
+          <div class="field">
+            <label for="c-car">Car type</label>
+            <select id="c-car" name="car"><option value="petrol">Gasoline/petrol</option><option value="diesel">Diesel</option><option value="hybrid">Hybrid</option><option value="ev">Electric</option><option value="none">No car</option></select>
+          </div>
+        </div>
+        <div class="grid-2">
+          <div class="field"><label for="c-fs">Short-haul round trips by air per year</label><input id="c-fs" name="flights_short" type="number" min="0" step="1" value="2"></div>
+          <div class="field"><label for="c-fl">Long-haul round trips by air per year</label><input id="c-fl" name="flights_long" type="number" min="0" step="1" value="0"></div>
+        </div>
+      </div>
+
+      <div data-mode="detailed" hidden>
+        <h2 style="font-size:1.25rem">Home energy for the whole household</h2>
+        <div class="grid-2">
+          <div class="field"><label for="d-kwh">Electricity per month (kWh)</label><input id="d-kwh" name="kwh_month" type="number" min="0" step="10" value="800"><span class="hint">Shown on your bill as usage.</span></div>
+          <label class="check field" style="align-self:end"><input type="checkbox" name="green_power"> <span>My electricity is 100% renewable (green tariff or own solar)</span></label>
+        </div>
+        <div class="grid-2">
+          <div class="field"><label for="d-gas">Natural gas per month</label><input id="d-gas" name="gas_month" type="number" min="0" step="1" value="50"></div>
+          <div class="field"><label for="d-gasu">Gas unit</label><select id="d-gasu" name="gas_unit"><option value="therm">therms</option><option value="m3">cubic metres (m³)</option><option value="kWh">kWh</option></select></div>
+        </div>
+        <div class="grid-2">
+          <div class="field"><label for="d-oil">Heating oil or propane per year</label><input id="d-oil" name="oil_year" type="number" min="0" step="10" value="0"></div>
+          <div class="field"><label for="d-oilu">Unit</label><select id="d-oilu" name="oil_unit"><option value="L">litres</option><option value="gal">US gallons</option></select></div>
+        </div>
+        <h2 style="font-size:1.25rem">Your own travel</h2>
+        <div class="grid-3">
+          <div class="field"><label for="d-dist">Car distance per year (<span data-dist>km</span>)</label><input id="d-dist" name="drive_year" type="number" min="0" step="100" value="12000"></div>
+          <div class="field"><label for="d-eff">Fuel use (<span data-eff>L/100 km</span>)</label><input id="d-eff" name="car_eff" type="number" min="0" step="0.1" value="8"></div>
+          <div class="field"><label for="d-fuel">Fuel</label><select id="d-fuel" name="car_fuel"><option value="petrol">Gasoline/petrol</option><option value="diesel">Diesel</option><option value="ev">Electric (kWh/100 km)</option></select></div>
+        </div>
+        <div class="grid-3">
+          <div class="field"><label for="d-bus">Bus or train hours per week</label><input id="d-bus" name="transit_week" type="number" min="0" step="1" value="2"></div>
+          <div class="field"><label for="d-fhs">Flight hours per year, short trips</label><input id="d-fhs" name="fly_short_h" type="number" min="0" step="1" value="6"></div>
+          <div class="field"><label for="d-fhl">Flight hours per year, long-haul</label><input id="d-fhl" name="fly_long_h" type="number" min="0" step="1" value="0"></div>
+        </div>
+        <h2 style="font-size:1.25rem">Waste</h2>
+        <div class="btn-row">
+          <label class="check"><input type="checkbox" name="recycle" checked> I recycle most packaging</label>
+          <label class="check"><input type="checkbox" name="compost"> I compost food scraps</label>
+        </div>
+      </div>
+
+      <h2 style="font-size:1.25rem;margin-top:1rem">Food and shopping</h2>
+      <div class="grid-2">
+        <div class="field">
+          <label for="c-diet">Your diet</label>
+          <select id="c-diet" name="diet"><option value="heavy">Meat most meals</option><option value="average" selected>Meat most days</option><option value="low">Meat a few times a week</option><option value="veg">Vegetarian</option><option value="vegan">Vegan</option></select>
+        </div>
+        <div class="field">
+          <label for="c-shop">New stuff you buy</label>
+          <select id="c-shop" name="shop"><option value="low">Mostly second-hand, rarely new</option><option value="average" selected>About average</option><option value="high">New clothes, gadgets and furniture often</option></select>
+        </div>
+      </div>
+      <button class="btn btn-ghost btn-sm" type="button" data-reset>Reset</button>
+    </form>
+
+    <aside class="results" aria-live="polite">
+      <h2>Your footprint</h2>
+      <p class="big" data-out="total">–</p>
+      <p class="sub" data-out="compare">tonnes CO₂e per person per year</p>
+      <ul class="res-bars" id="carbon-bars"></ul>
+      <h3>Your biggest levers</h3>
+      <ol id="carbon-actions" class="sub" style="padding-left:1.2rem"></ol>
+      <div class="btn-row">
+        <a class="btn btn-sun" href="{{root}}challenge.html">Start the 30-day challenge</a>
+        <a class="btn btn-ghost" data-quote href="{{root}}quotes.html">Price home upgrades</a>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<section class="section band">
+  <div class="wrap narrow prose">
+    <h2>Method and sources</h2>
+    <p>Home energy uses your country’s average grid factor (kilograms of CO₂ per kWh) and standard combustion factors: about 0.18 kg CO₂ per kWh of natural gas, 2.68 kg per litre of heating oil and 2.31 kg per litre of gasoline. Household energy is divided by the number of people in the home; travel, food and shopping are counted per person.</p>
+    <p>Flights use about 95 kg CO₂ per passenger flight-hour, which leaves out the extra warming from contrails and other high-altitude effects, so treat flight numbers as a floor. Diet figures range from about 1.5 tonnes a year for a vegan diet to 3.3 tonnes for meat at most meals, in line with widely used lifecycle studies. Shopping is a broad average for clothes, electronics and household goods.</p>
+    <p>Country comparisons use approximate per-person CO₂ emissions from fossil fuels and industry (Our World in Data, latest year). Those national figures count emissions where they are produced, while this calculator counts what you consume, so the two are close cousins rather than identical twins. The 2-tonne line is a commonly cited per-person level consistent with the Paris Agreement goals by around 2050.</p>
+    <p>Next: read <a href="{{root}}guides/household-carbon-footprint.html">where household emissions really come from</a>.</p>
+  </div>
+</section>

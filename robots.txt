@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /_src/
+Disallow: /_scripts/
+Disallow: /_project/
+Disallow: /node_modules/
+
+Sitemap: https://hello.green/sitemap.xml

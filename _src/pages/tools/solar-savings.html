@@ -1,0 +1,91 @@
+<!--meta {"title":"Solar savings calculator: size, cost and payback","description":"Estimate the solar system size you need, its cost after incentives, your payback year, 25-year savings and CO₂ avoided. Works for the US, Canada, UK, EU, India and Australia.","section":"tools","scripts":["assets/js/tools/kit.js","assets/js/tools/solar.js"],"tags":"solar calculator payback panels kw cost savings roof","schema":{"@context":"https://schema.org","@type":"WebApplication","name":"Hello.Green solar savings calculator","applicationCategory":"FinanceApplication","operatingSystem":"Any","offers":{"@type":"Offer","price":"0"}}} -->
+<section class="page-head">
+  <div class="wrap">
+    <p class="crumbs"><a href="{{root}}tools/">Tools</a> <span aria-hidden="true">/</span> Solar savings</p>
+    <h1>Solar savings calculator</h1>
+    <p class="lede">Start with your monthly bill. We size a system to match it, price it with your local defaults and show the year it pays for itself.</p>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0">
+  <div class="wrap tool-layout">
+    <form class="form-card" id="solar-form" novalidate>
+      <div class="grid-2">
+        <div class="field">
+          <label for="s-country">Where is the home?</label>
+          <select id="s-country" name="country"><option value="US">United States</option><option value="CA">Canada</option><option value="UK">United Kingdom</option><option value="EU">European Union</option><option value="IN">India</option><option value="AU">Australia</option></select>
+        </div>
+        <div class="field">
+          <label for="s-bill">Monthly electricity bill</label>
+          <input id="s-bill" name="bill" type="number" min="0" step="1" value="160" inputmode="decimal">
+        </div>
+      </div>
+      <div class="grid-2">
+        <div class="field">
+          <label for="s-rate">Price per kWh</label>
+          <input id="s-rate" name="rate" type="number" min="0" step="0.01" value="0.18">
+          <span class="hint">On your bill as “energy charge” or “per kWh”.</span>
+        </div>
+        <div class="field">
+          <label for="s-sun">Peak sun hours per day</label>
+          <input id="s-sun" name="sun" type="number" min="1" max="8" step="0.1" value="4.5">
+          <span class="hint">About 2.5–3 in the UK, 4–5 across most of the US and India, 5.5–6.5 in deserts.</span>
+        </div>
+      </div>
+      <div class="field">
+        <label for="s-offset">Share of your usage to cover: <output id="s-offset-out">90%</output></label>
+        <input id="s-offset" name="offset" type="range" min="40" max="120" step="5" value="90">
+      </div>
+      <div class="grid-2">
+        <div class="field">
+          <label for="s-cpw">Installed cost per watt</label>
+          <input id="s-cpw" name="cpw" type="number" min="0" step="0.05" value="3.00">
+          <span class="hint">Before incentives. Your quotes will show this as price per watt.</span>
+        </div>
+        <div class="field">
+          <label for="s-inc">Rebates and grants (total)</label>
+          <input id="s-inc" name="incentive" type="number" min="0" step="50" value="0">
+          <span class="hint">State, utility or national programs. See our <a href="{{root}}incentives.html">incentives page</a>.</span>
+        </div>
+      </div>
+      <label class="check field" data-only="IN"><input type="checkbox" name="pmsg" checked> <span>Apply the PM Surya Ghar subsidy (₹30,000/kW up to 2 kW, ₹18,000/kW for the third, capped at ₹78,000)</span></label>
+      <div class="grid-2">
+        <div class="field">
+          <label for="s-export">Credit for exported power (% of retail)</label>
+          <input id="s-export" name="export" type="number" min="0" max="100" step="5" value="75">
+          <span class="hint">100% with full net metering, often 20–60% under export tariffs.</span>
+        </div>
+        <div class="field">
+          <label for="s-esc">Yearly electricity price rise (%)</label>
+          <input id="s-esc" name="esc" type="number" min="0" max="15" step="0.5" value="3">
+        </div>
+      </div>
+      <button class="btn btn-ghost btn-sm" type="button" data-reset>Reset to defaults</button>
+    </form>
+
+    <aside class="results" aria-live="polite">
+      <h2>Your solar estimate</h2>
+      <p class="big" data-out="payback">–</p>
+      <p class="sub">Estimated payback period</p>
+      <ul class="res-rows" id="solar-rows"></ul>
+      <a class="btn btn-sun" data-quote href="{{root}}quotes.html?project=solar">Get real solar quotes</a>
+      <p class="sub" style="margin-top:1rem;font-size:.9rem">Quotes from up to three vetted installers. Free, and you pick who contacts you.</p>
+    </aside>
+  </div>
+</section>
+
+<section class="section band">
+  <div class="wrap narrow prose">
+    <h2>How this calculator works</h2>
+    <p>We divide your bill by your price per kWh to estimate yearly use, then size a system to cover the share you chose. Output assumes 80% of the panels’ rated power reaches your home after inverter, wiring, heat and dirt losses, and that output falls 0.5% a year as panels age.</p>
+    <p>Savings assume you use about 40% of your solar power as it is made. The rest goes to the grid and is credited at the export rate you set. Fixed monthly charges on your bill do not change with solar, so a bill with a large connection fee will overstate usage slightly. The payback period is when cumulative savings pass the cost after rebates.</p>
+    <p>What it leaves out: financing interest, a possible inverter replacement around year 12–15, roof repairs, time-of-use rates and battery storage. Those can move payback by a few years either way, which is why written quotes matter.</p>
+    <h2>Reading your result</h2>
+    <ul>
+      <li><strong>Under 8 years:</strong> a strong case in most places. Get quotes.</li>
+      <li><strong>8–12 years:</strong> solid if you plan to stay in the home and your roof has 15+ years of life left.</li>
+      <li><strong>Over 12 years:</strong> look at efficiency first, check community solar, or wait for a better price per watt.</li>
+    </ul>
+    <p>For the full picture, read <a href="{{root}}guides/solar-worth-it-2026.html">Is solar still worth it in 2026?</a> and <a href="{{root}}guides/home-battery-guide.html">our battery guide</a>.</p>
+  </div>
+</section>

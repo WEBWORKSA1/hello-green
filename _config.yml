@@ -1,0 +1,9 @@
+# GitHub Pages: the site is plain static HTML. These paths are source files and are not published.
+exclude:
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - _src
+  - _scripts
+  - _project

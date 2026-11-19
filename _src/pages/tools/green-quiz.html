@@ -1,0 +1,35 @@
+<!--meta {"title":"Green Score quiz: how green is your home and lifestyle?","description":"Answer ten quick questions about heating, power, travel, food and shopping. Get a score out of 100 and your three most useful next steps.","section":"tools","scripts":["assets/js/tools/quiz.js"],"tags":"quiz green score sustainability lifestyle test eco"} -->
+<section class="page-head">
+  <div class="wrap">
+    <p class="crumbs"><a href="{{root}}tools/">Tools</a> <span aria-hidden="true">/</span> Green Score quiz</p>
+    <h1>What’s your Green Score?</h1>
+    <p class="lede">Ten questions, about two minutes. No sign-up. You get a score, a level and the three changes that would move you most.</p>
+  </div>
+</section>
+<section class="section" style="padding-top:0">
+  <div class="wrap tool-layout">
+    <form id="quiz-form" class="form-card" novalidate>
+      <div id="quiz-qs"></div>
+      <p class="form-msg err" id="quiz-msg" role="status" aria-live="polite"></p>
+      <button class="btn btn-sun" type="submit">Show my Green Score</button>
+    </form>
+    <aside class="results" id="quiz-result" hidden tabindex="-1" aria-live="polite">
+      <h2>Your Green Score</h2>
+      <p class="big" data-out="score">–</p>
+      <p class="sub" data-out="level"></p>
+      <h3>Your three best next steps</h3>
+      <ol id="quiz-tips" class="sub" style="padding-left:1.2rem"></ol>
+      <div class="btn-row">
+        <a class="btn btn-sun" href="{{root}}challenge.html">Take the 30-day challenge</a>
+        <a class="btn btn-ghost" href="{{root}}tools/carbon-footprint.html">Measure my footprint</a>
+      </div>
+    </aside>
+  </div>
+</section>
+<section class="section band">
+  <div class="wrap narrow prose">
+    <h2>How the score works</h2>
+    <p>Each answer scores from 0 to 3 points, and the total is scaled to 100. The questions are weighted toward the choices that matter most for household emissions in most countries: heating, electricity, travel and food. A high score does not mean a zero footprint, and a low one is simply a list of opportunities, most of which also save money.</p>
+    <p>Levels: Seedling (under 40), Sprout (40–59), Sapling (60–74), Grove (75–89) and Old-growth (90 and above). Take the quiz again after a month of changes and compare.</p>
+  </div>
+</section>

@@ -1,0 +1,49 @@
+<!--meta {"title":"Contact Hello.Green","description":"Send Hello.Green a question, correction, incentive update, partnership idea or a request to withdraw a quote request. We reply within two business days.","section":"about","tags":"contact email message support corrections partnership"} -->
+<section class="page-head">
+  <div class="wrap">
+    <h1>Contact us</h1>
+    <p class="lede">Questions, corrections, new incentives, partnership ideas or a request to withdraw your details: send them here and a person will reply within two business days.</p>
+  </div>
+</section>
+<section class="section" style="padding-top:0">
+  <div class="wrap tool-layout">
+    <div class="form-card">
+      <form data-hg-form="contact" data-success="#contact-done" novalidate>
+        <div class="grid-2">
+          <div class="field"><label for="ct-n">Your name</label><input id="ct-n" name="name" type="text" autocomplete="name" required></div>
+          <div class="field"><label for="ct-e">Email</label><input id="ct-e" name="email" type="email" autocomplete="email" required></div>
+        </div>
+        <div class="field">
+          <label for="ct-t">Topic</label>
+          <select id="ct-t" name="topic" required>
+            <option value="">Choose one</option>
+            <option>General question</option>
+            <option>Correction or incentive update</option>
+            <option>Withdraw my quote request or delete my data</option>
+            <option>Installer partnership</option>
+            <option>Advertising or sponsorship</option>
+            <option>Website, domain or business partnership</option>
+            <option>Press</option>
+            <option>Something else</option>
+          </select>
+        </div>
+        <div class="field"><label for="ct-m">Message</label><textarea id="ct-m" name="message" required maxlength="4000"></textarea></div>
+        <input type="text" name="_honey" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <button class="btn btn-sun" type="submit">Send message</button>
+        <p class="form-msg" role="status" aria-live="polite"></p>
+      </form>
+      <div id="contact-done" hidden tabindex="-1"><h2>Message sent</h2><p>Thank you. We reply within two business days.</p></div>
+    </div>
+    <aside class="results">
+      <h2>Quicker answers</h2>
+      <ul class="res-rows">
+        <li><span><a href="{{root}}quotes.html">Request quotes</a></span><span>2 min</span></li>
+        <li><span><a href="{{root}}incentives.html">Check incentives</a></span><span>By country</span></li>
+        <li><span><a href="{{root}}advertise.html">Advertise or sponsor</a></span><span>Packages</span></li>
+        <li><span><a href="{{root}}pros.html">Join as an installer</a></span><span>Apply</span></li>
+        <li><span><a href="{{root}}careers.html">Work with us</a></span><span>Open roles</span></li>
+      </ul>
+      <p class="sub">Interested in this website, the domain name, sponsorship, advertising or a partnership? The contact link at the top of every page goes straight to the owner.</p>
+    </aside>
+  </div>
+</section>
