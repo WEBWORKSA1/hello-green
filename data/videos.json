@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T06:43:28.373Z",
+ "updated": "2026-11-22T19:34:19.361Z",
  "channels": {
   "UndecidedMF": "UCjtUS7-SZTi6pXjUbzGHQCg",
   "JustHaveaThink": "UCRBwLPbXGsI2cJe9W1zfSjQ",
@@ -13,6 +13,12 @@
   "Shelbizleee": "UC447BcfEhFjDDC8UZ9Pr8jw"
  },
  "items": [
+  {
+   "id": "6gzNQZU2ulQ",
+   "title": "Could Bacteria Solve Uranium's Hidden Pollution Problem?",
+   "channel": "Just Have a Think",
+   "published": "2026-11-22T18:00:09.000Z"
+  },
   {
    "id": "VFHy0-lMiZ8",
    "title": "Are We Speedrunning the End of the World? (Inspired by @TierZoo)",
@@ -90,12 +96,6 @@
    "title": "A Battery Made of Sand Is Now Heating a Town",
    "channel": "Undecided with Matt Ferrell",
    "published": "2026-11-03T13:16:45.000Z"
-  },
-  {
-   "id": "WmbrtbLZTWs",
-   "title": "Can Americans take back control of climate policy?",
-   "channel": "Just Have a Think",
-   "published": "2026-11-01T18:00:28.000Z"
   },
   {
    "id": "I1rlK3BKmyA",

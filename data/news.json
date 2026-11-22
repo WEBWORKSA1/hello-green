@@ -1,26 +1,110 @@
 {
- "updated": "2026-11-22T06:43:27.971Z",
+ "updated": "2026-11-22T19:34:18.808Z",
  "items": [
   {
-   "title": "Record-breaking sightings of rare moth in Essex",
-   "link": "https://www.bbc.co.uk/news/articles/c6jrey28gvqxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-22T06:38:26.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "Cop31 live: A new draft deal on the table as talks go into final hours",
-   "link": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-22T06:18:48.000Z",
+   "title": "UN’s COP31 Climate Conference Fizzles Out as Global Policy Divides Deepen",
+   "link": "https://insideclimatenews.org/news/22112026/uns-cop31-climate-conference-fizzles-out-as-global-policy-divides-deepen/",
+   "source": "Inside Climate News",
+   "published": "2026-11-22T18:54:50.000Z",
    "category": "Policy"
   },
   {
-   "title": "New draft deal aims to avert collapse of talks at climate summit",
+   "title": "What's next after no deal at COP31 climate summit?",
+   "link": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-22T18:28:48.000Z",
+   "category": "Policy"
+  },
+  {
+   "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+   "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-22T18:17:59.000Z",
+   "category": "Policy"
+  },
+  {
+   "title": "The Insurance Affordability Crisis: Risks, Resilience, and Solutions",
+   "link": "https://cleantechnica.com/2026/11/22/the-insurance-affordability-crisis-risks-resilience-and-solutions/",
+   "source": "CleanTechnica",
+   "published": "2026-11-22T17:03:31.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Cop31 as it happened: EU and others reject deal as longest climate summit comes to fractious end",
+   "link": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-11-22T16:45:37.000Z",
+   "category": "Policy"
+  },
+  {
+   "title": "EU officials reject Cop31 deal as it 'doesn't speak to reality of the climate crisis' – video",
+   "link": "https://www.theguardian.com/environment/video/2026/nov/22/eu-officials-reject-cop31-deal-as-it-doesnt-speak-to-reality-of-the-climate-crisis-video",
+   "source": "The Guardian",
+   "published": "2026-11-22T16:08:20.000Z",
+   "category": "Policy"
+  },
+  {
+   "title": "Memo To Musk: Denial Is Just The First Step On The Long Road To Recovery",
+   "link": "https://cleantechnica.com/2026/11/22/elon-musk-ukraine-spacex-starshield-democrats-government-contracts-risk/",
+   "source": "CleanTechnica",
+   "published": "2026-11-22T15:20:11.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
+   "link": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/",
+   "source": "Electrek",
+   "published": "2026-11-22T14:22:49.000Z",
+   "category": "Clean energy"
+  },
+  {
+   "title": "How wildfire litigation became big business in America",
+   "link": "https://grist.org/wildfires/how-wildfire-litigation-became-big-business-in-america/",
+   "source": "Grist",
+   "published": "2026-11-22T14:00:00.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
+   "link": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
+   "source": "The Guardian",
+   "published": "2026-11-22T13:36:01.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "From equipment to ferries to locomotives, Illinois ports are getting a ZEV makeover",
+   "link": "https://electrek.co/2026/11/22/from-equipment-to-ferries-to-locomotives-illinois-ports-are-getting-a-zev-makeover/",
+   "source": "Electrek",
+   "published": "2026-11-22T13:01:35.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "E-quipment highlight: Tadano rolls out 35-ton V320RC electric crane",
+   "link": "https://electrek.co/2026/11/22/e-quipment-highlight-tadano-rolls-out-35-ton-v320rc-electric-crane/",
+   "source": "Electrek",
+   "published": "2026-11-22T12:20:00.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
+   "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-22T10:44:12.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "The Defenders of Mexico’s Scorpion Reef",
+   "link": "https://insideclimatenews.org/news/22112026/protecting-mexicos-scorpion-reef-from-climate-change-illegal-fishing/",
+   "source": "Inside Climate News",
+   "published": "2026-11-22T10:00:00.000Z",
+   "category": "Nature"
+  },
+  {
+   "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
    "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
-   "published": "2026-11-22T05:26:10.000Z",
-   "category": "Climate"
+   "published": "2026-11-22T06:54:06.000Z",
+   "category": "Policy"
   },
   {
    "title": "Ford Begins Producing Its Own LFP Batteries",
@@ -58,24 +142,10 @@
    "category": "EVs & transport"
   },
   {
-   "title": "Will COP31 end with a new global climate deal?",
-   "link": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-21T22:44:52.000Z",
-   "category": "Policy"
-  },
-  {
    "title": "Diplomats race to compromise on fossil fuels as Cop31 teeters on brink of failure – as it happened",
    "link": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
    "source": "The Guardian",
    "published": "2026-11-21T22:25:25.000Z",
-   "category": "Policy"
-  },
-  {
-   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-   "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-21T22:19:43.000Z",
    "category": "Policy"
   },
   {
@@ -114,27 +184,6 @@
    "category": "EVs & transport"
   },
   {
-   "title": "Tesla Cybertruck’s already impressive turning radius gets even tighter",
-   "link": "https://electrek.co/2026/11/21/tesla-cybertruck-tighter-turning-radius-update/",
-   "source": "Electrek",
-   "published": "2026-11-21T19:14:57.000Z",
-   "category": "EVs & transport"
-  },
-  {
-   "title": "Toyota just built a tiny folding electric bike to fit in your trunk",
-   "link": "https://electrek.co/2026/11/21/toyota-just-built-a-tiny-folding-electric-bike-to-fit-in-your-trunk/",
-   "source": "Electrek",
-   "published": "2026-11-21T18:34:13.000Z",
-   "category": "EVs & transport"
-  },
-  {
-   "title": "E-quipment highlight: Mantsinen 200 material handler has tank treads",
-   "link": "https://electrek.co/2026/11/21/e-quipment-highlight-mantsinen-200-material-handler-has-tank-treads/",
-   "source": "Electrek",
-   "published": "2026-11-21T18:12:54.000Z",
-   "category": "Climate"
-  },
-  {
    "title": "Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less",
    "link": "https://cleantechnica.com/2026/11/21/europe-hydrogen-cost-industrial-buyers-price-ceilings/",
    "source": "CleanTechnica",
@@ -142,10 +191,10 @@
    "category": "Clean energy"
   },
   {
-   "title": "Hormuz swim highlights environmental cost of war",
-   "link": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-21T16:12:31.000Z",
+   "title": "‘Hell dorm’: Florida prisoners testify about 119F heat indexes and walls that sweat",
+   "link": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
+   "source": "The Guardian",
+   "published": "2026-11-21T14:38:58.000Z",
    "category": "Climate"
   },
   {
@@ -181,13 +230,6 @@
    "link": "https://insideclimatenews.org/news/21112026/midterms-environmental-voters/",
    "source": "Inside Climate News",
    "published": "2026-11-21T09:55:00.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "China commits to low-carbon electrification and help for others to improve",
-   "link": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
-   "source": "The Guardian",
-   "published": "2026-11-21T09:47:57.000Z",
    "category": "Climate"
   },
   {
@@ -254,25 +296,11 @@
    "category": "Climate"
   },
   {
-   "title": "NIO Launches Special Edition Firefly “Pianke Liujin”",
-   "link": "https://cleantechnica.com/2026/11/20/nio-launches-special-edition-firefly-pianke-liujin/",
-   "source": "CleanTechnica",
-   "published": "2026-11-21T04:55:58.000Z",
-   "category": "Climate"
-  },
-  {
    "title": "Extreme rainfalls flood Sri Lanka’s coastal city as wetlands, drains vanish",
    "link": "https://news.mongabay.com/2026/11/extreme-rainfalls-flood-sri-lankas-coastal-city-as-wetlands-drains-vanish/",
    "source": "Mongabay",
    "published": "2026-11-21T03:14:33.000Z",
    "category": "Nature"
-  },
-  {
-   "title": "JA Energy Storage Launches an Internal Battery Passport Platform to Facilitate Compliance with EU Standards",
-   "link": "https://cleantechnica.com/2026/11/20/ja-energy-storage-launches-an-internal-battery-passport-platform-to-facilitate-compliance-with-eu-standards/",
-   "source": "CleanTechnica",
-   "published": "2026-11-21T02:34:38.000Z",
-   "category": "Clean energy"
   },
   {
    "title": "Alabama Power Announces $160 Million Rate Decrease for 2027 After Pushback on High Energy Costs",
@@ -366,20 +394,6 @@
    "category": "Clean energy"
   },
   {
-   "title": "US army postpones plan to detonate bomb-making chemical amid outcry",
-   "link": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
-   "source": "The Guardian",
-   "published": "2026-11-20T15:39:48.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
-   "link": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
-   "source": "The Guardian",
-   "published": "2026-11-20T15:09:09.000Z",
-   "category": "Policy"
-  },
-  {
    "title": "China grid-connects world’s first artificial-cavern CAES plant",
    "link": "https://www.pv-magazine.com/2026/11/20/china-grid-connects-worlds-first-artificial-cavern-caes-plant/",
    "source": "pv magazine",
@@ -441,20 +455,6 @@
    "source": "Canary Media",
    "published": "2026-11-20T08:30:00.000Z",
    "category": "Climate"
-  },
-  {
-   "title": "How the Bipartisan Permitting Bill Could Drive Up Natural Gas Exports",
-   "link": "https://insideclimatenews.org/news/19112026/bipartisan-permitting-bill-natural-gas-exports/",
-   "source": "Inside Climate News",
-   "published": "2026-11-20T00:09:32.000Z",
-   "category": "Policy"
-  },
-  {
-   "title": "Public Officials in Alabama Say a Huge, Chemically-Fueled Blaze Won’t Harm Residents. CDC and EPA Advise Otherwise.",
-   "link": "https://insideclimatenews.org/news/19112026/alabama-chemical-fire-resident-health/",
-   "source": "Inside Climate News",
-   "published": "2026-11-20T00:00:00.000Z",
-   "category": "Policy"
   },
   {
    "title": "Kyle could form off Florida as extensive, prolonged coastal flood threat grows",
