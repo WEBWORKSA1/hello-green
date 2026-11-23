@@ -1,6 +1,104 @@
 {
- "updated": "2026-11-22T19:34:18.808Z",
+ "updated": "2026-11-23T07:32:06.076Z",
  "items": [
+  {
+   "title": "Five takeaways from the failed climate talks COP31",
+   "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-23T06:33:50.000Z",
+   "category": "Policy"
+  },
+  {
+   "title": "Daikin launches R32 retrofit solution for existing residential heat pump series",
+   "link": "https://www.pv-magazine.com/2026/11/23/daikin-launches-r32-retrofit-solution-for-existing-residential-heat-pump-series/",
+   "source": "pv magazine",
+   "published": "2026-11-23T06:09:09.000Z",
+   "category": "Home energy"
+  },
+  {
+   "title": "Ten innovative renewable energy startups give their pitch at RE+",
+   "link": "https://www.pv-magazine.com/2026/11/23/ten-innovative-renewable-energy-startups-give-their-pitch-at-re/",
+   "source": "pv magazine",
+   "published": "2026-11-23T05:40:55.000Z",
+   "category": "Clean energy"
+  },
+  {
+   "title": "Briggs & Stratton launches 16 kWh battery scalable to 512 kWh",
+   "link": "https://www.pv-magazine.com/2026/11/23/briggs-stratton-launches-16-kwh-battery-scalable-to-512-kwh/",
+   "source": "pv magazine",
+   "published": "2026-11-23T05:40:33.000Z",
+   "category": "Clean energy"
+  },
+  {
+   "title": "Plan to breed rare Asian golden cats for pets raises conservation concerns",
+   "link": "https://news.mongabay.com/short-article/2026/11/plan-to-breed-rare-asian-golden-cats-for-pets-raises-conservation-concerns/",
+   "source": "Mongabay",
+   "published": "2026-11-23T05:27:42.000Z",
+   "category": "Nature"
+  },
+  {
+   "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+   "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-23T05:15:06.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Burden of proof",
+   "link": "https://www.pv-magazine.com/2026/11/23/burden-of-proof/",
+   "source": "pv magazine",
+   "published": "2026-11-23T05:00:00.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "LDV eDeliver 5 — A Chinese Bargain?",
+   "link": "https://cleantechnica.com/2026/11/22/ldv-edeliver-5-a-chinese-bargain/",
+   "source": "CleanTechnica",
+   "published": "2026-11-23T04:20:14.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find",
+   "link": "https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report",
+   "source": "The Guardian",
+   "published": "2026-11-23T04:00:45.000Z",
+   "category": "Low-waste living"
+  },
+  {
+   "title": "Kuala Lumpur otters raise river revival hopes",
+   "link": "https://news.mongabay.com/2026/11/kuala-lumpur-otters-raise-river-clean-up-hopes/",
+   "source": "Mongabay",
+   "published": "2026-11-23T02:53:11.000Z",
+   "category": "Nature"
+  },
+  {
+   "title": "Stellantis CEO More Bullish on EVs than Stellantis CEOs of Old, But Sings Same Boring Song",
+   "link": "https://cleantechnica.com/2026/11/22/stellantis-ceo-more-bullish-on-evs-than-stellantis-ceos-of-old-but-sings-same-boring-song/",
+   "source": "CleanTechnica",
+   "published": "2026-11-23T01:28:49.000Z",
+   "category": "EVs & transport"
+  },
+  {
+   "title": "The good news out of Cop31? That most of the world’s governments said no to an agreement stripped of meaning | Bill Hare",
+   "link": "https://www.theguardian.com/environment/commentisfree/2026/nov/23/cop31-climate-summit-no-agreement",
+   "source": "The Guardian",
+   "published": "2026-11-22T22:30:48.000Z",
+   "category": "Policy"
+  },
+  {
+   "title": "RMI’s Hydrogen Research Is Getting Better. Its Investment Advice Still Falls Short.",
+   "link": "https://cleantechnica.com/2026/11/22/rmis-hydrogen-research-is-getting-better-its-investment-advice-still-falls-short/",
+   "source": "CleanTechnica",
+   "published": "2026-11-22T21:13:20.000Z",
+   "category": "Clean energy"
+  },
+  {
+   "title": "11-term House rep who mocked a kid’s letter about EVs has lost her seat (Upd.)",
+   "link": "https://electrek.co/2026/11/22/this-boomer-rep-mocked-a-child-about-the-4-trillion-debt-she-saddled-him-with/",
+   "source": "Electrek",
+   "published": "2026-11-22T19:44:00.000Z",
+   "category": "EVs & transport"
+  },
   {
    "title": "UN’s COP31 Climate Conference Fizzles Out as Global Policy Divides Deepen",
    "link": "https://insideclimatenews.org/news/22112026/uns-cop31-climate-conference-fizzles-out-as-global-policy-divides-deepen/",
@@ -13,13 +111,6 @@
    "link": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-22T18:28:48.000Z",
-   "category": "Policy"
-  },
-  {
-   "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-   "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-22T18:17:59.000Z",
    "category": "Policy"
   },
   {
@@ -100,13 +191,6 @@
    "category": "Nature"
   },
   {
-   "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-   "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-22T06:54:06.000Z",
-   "category": "Policy"
-  },
-  {
    "title": "Ford Begins Producing Its Own LFP Batteries",
    "link": "https://cleantechnica.com/2026/11/21/ford-begins-producing-its-own-lfp-batteries/",
    "source": "CleanTechnica",
@@ -142,13 +226,6 @@
    "category": "EVs & transport"
   },
   {
-   "title": "Diplomats race to compromise on fossil fuels as Cop31 teeters on brink of failure – as it happened",
-   "link": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-11-21T22:25:25.000Z",
-   "category": "Policy"
-  },
-  {
    "title": "Who Needs Automatic Driving? You Love to Drive! However, for Many Handicapped, Tesla’s Full Self Driving Is the Only Option. It’s Use It, or Don’t Drive!",
    "link": "https://cleantechnica.com/2026/11/21/who-needs-automatic-driving-you-love-to-drive-however-for-many-handicapped-teslas-full-self-driving-is-the-only-option-its-use-it-or-dont-drive/",
    "source": "CleanTechnica",
@@ -170,13 +247,6 @@
    "category": "EVs & transport"
   },
   {
-   "title": "How much does charging an EV really cost? This Redditor says $7 per month",
-   "link": "https://electrek.co/2026/11/21/how-much-does-charging-an-ev-really-cost-this-redditor-says-7-per-month/",
-   "source": "Electrek",
-   "published": "2026-11-21T19:53:32.000Z",
-   "category": "EVs & transport"
-  },
-  {
    "title": "EV Share Jumps to 68%(!) and Small BEVs Rise to Power — China EV Sales Report for October",
    "link": "https://cleantechnica.com/2026/11/21/ev-share-jumps-to-68-and-small-bevs-rise-to-power-china-ev-sales-report-for-october/",
    "source": "CleanTechnica",
@@ -184,25 +254,11 @@
    "category": "EVs & transport"
   },
   {
-   "title": "Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less",
-   "link": "https://cleantechnica.com/2026/11/21/europe-hydrogen-cost-industrial-buyers-price-ceilings/",
-   "source": "CleanTechnica",
-   "published": "2026-11-21T16:49:13.000Z",
-   "category": "Clean energy"
-  },
-  {
    "title": "‘Hell dorm’: Florida prisoners testify about 119F heat indexes and walls that sweat",
    "link": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
    "source": "The Guardian",
    "published": "2026-11-21T14:38:58.000Z",
    "category": "Climate"
-  },
-  {
-   "title": "Jackery & Every Electric Transform Urban Energy Storage With Plug-In VPP",
-   "link": "https://cleantechnica.com/2026/11/21/jackery-every-electric-transform-urban-energy-storage-with-plug-in-vpp/",
-   "source": "CleanTechnica",
-   "published": "2026-11-21T14:27:15.000Z",
-   "category": "Clean energy"
   },
   {
    "title": "New net-zero community will become Michigan’s first virtual power plant",
@@ -268,34 +324,6 @@
    "category": "Clean energy"
   },
   {
-   "title": "The U.S. solar manufacturing landscape in 2026",
-   "link": "https://www.pv-magazine.com/2026/11/21/the-us-solar-manufacturing-landscape-in-2026-2/",
-   "source": "pv magazine",
-   "published": "2026-11-21T07:30:00.000Z",
-   "category": "Solar"
-  },
-  {
-   "title": "Battery patents: Solid-state filings surpass lithium-ion to hit record high",
-   "link": "https://www.pv-magazine.com/2026/11/21/battery-patents-solid-state-filings-surpass-lithium-ion-to-hit-record-high/",
-   "source": "pv magazine",
-   "published": "2026-11-21T07:00:00.000Z",
-   "category": "Clean energy"
-  },
-  {
-   "title": "Waymo Pulls Robotaxis from Highways",
-   "link": "https://cleantechnica.com/2026/11/21/waymo-pulls-robotaxis-from-highways/",
-   "source": "CleanTechnica",
-   "published": "2026-11-21T05:21:09.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "Tariffs, taxes and a BESS price rise",
-   "link": "https://www.pv-magazine.com/2026/11/21/tariffs-taxes-and-a-bess-price-rise/",
-   "source": "pv magazine",
-   "published": "2026-11-21T05:00:00.000Z",
-   "category": "Climate"
-  },
-  {
    "title": "Extreme rainfalls flood Sri Lanka’s coastal city as wetlands, drains vanish",
    "link": "https://news.mongabay.com/2026/11/extreme-rainfalls-flood-sri-lankas-coastal-city-as-wetlands-drains-vanish/",
    "source": "Mongabay",
@@ -352,31 +380,10 @@
    "category": "Climate"
   },
   {
-   "title": "What to know about the US permitting bill, from datacenters to Trump’s arch",
-   "link": "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed",
-   "source": "The Guardian",
-   "published": "2026-11-20T18:26:08.000Z",
-   "category": "Policy"
-  },
-  {
    "title": "Indigenous protesters board soy and oil barges on Brazilian Amazon river",
    "link": "https://news.mongabay.com/short-article/2026/11/indigenous-protesters-board-soy-and-oil-barges-on-brazilian-amazon-river/",
    "source": "Mongabay",
    "published": "2026-11-20T18:09:50.000Z",
-   "category": "Nature"
-  },
-  {
-   "title": "It’s time to put Africa’s forest communities on the map (commentary)",
-   "link": "https://news.mongabay.com/2026/11/its-past-time-to-put-africas-forest-communities-on-the-map-commentary/",
-   "source": "Mongabay",
-   "published": "2026-11-20T18:01:05.000Z",
-   "category": "Nature"
-  },
-  {
-   "title": "Where family foundations can help marine conservation",
-   "link": "https://news.mongabay.com/2026/11/where-family-foundations-can-help-marine-conservation/",
-   "source": "Mongabay",
-   "published": "2026-11-20T17:48:02.000Z",
    "category": "Nature"
   },
   {
@@ -391,13 +398,6 @@
    "link": "https://www.canarymedia.com/articles/offshore-wind/new-york-ports-get-230m-boost-for-offshore-wind-other-industries",
    "source": "Canary Media",
    "published": "2026-11-20T16:15:00.000Z",
-   "category": "Clean energy"
-  },
-  {
-   "title": "China grid-connects world’s first artificial-cavern CAES plant",
-   "link": "https://www.pv-magazine.com/2026/11/20/china-grid-connects-worlds-first-artificial-cavern-caes-plant/",
-   "source": "pv magazine",
-   "published": "2026-11-20T14:43:16.000Z",
    "category": "Clean energy"
   },
   {
