@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T23:50:28.582Z",
+ "updated": "2026-11-24T09:50:55.173Z",
  "channels": {
   "UndecidedMF": "UCjtUS7-SZTi6pXjUbzGHQCg",
   "JustHaveaThink": "UCRBwLPbXGsI2cJe9W1zfSjQ",
@@ -13,6 +13,12 @@
   "Shelbizleee": "UC447BcfEhFjDDC8UZ9Pr8jw"
  },
  "items": [
+  {
+   "id": "sAYMwAL_uIk",
+   "title": "Denmark’s Gas Grid Has a Duck Curve Now",
+   "channel": "Engineering with Rosie",
+   "published": "2026-11-24T05:00:08.000Z"
+  },
   {
    "id": "6gzNQZU2ulQ",
    "title": "Nature's Surprising Answer to Uranium Contamination.",
@@ -126,12 +132,6 @@
    "title": "Robert's Renault Twingo First Drive, Carpool Style!",
    "channel": "Fully Charged Show",
    "published": "2026-10-22T16:00:20.000Z"
-  },
-  {
-   "id": "xGJP4LLGWU8",
-   "title": "Australians Were Promised Free Electricity. So Where Is It?",
-   "channel": "Engineering with Rosie",
-   "published": "2026-10-22T05:00:26.000Z"
   },
   {
    "id": "3fDGcZ8qpPM",

@@ -1,6 +1,181 @@
 {
- "updated": "2026-11-23T23:50:27.431Z",
+ "updated": "2026-11-24T09:50:54.658Z",
  "items": [
+  {
+   "title": "A walkable city of tomorrow is growing in suburban Utah",
+   "link": "https://grist.org/cities/utah-city-walkable-growing-vineyard/",
+   "source": "Grist",
+   "published": "2026-11-24T09:45:00.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Voters are fed up with for-profit utilities, but they keep rejecting ‘public power’",
+   "link": "https://grist.org/elections/public-power-ballot-kitsap-county-washington-ann-arbor-michigan/",
+   "source": "Grist",
+   "published": "2026-11-24T09:30:00.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Residential solar linked to reduced health risks from extreme temperatures",
+   "link": "https://www.pv-magazine.com/2026/11/24/residential-solar-linked-to-reduced-health-risks-from-extreme-temperatures/",
+   "source": "pv magazine",
+   "published": "2026-11-24T09:18:43.000Z",
+   "category": "Solar"
+  },
+  {
+   "title": "Nepal hoped for flood aid at COP31. It got nothing.",
+   "link": "https://grist.org/cop31/nepal-glacier-flood-cop31-climate-finance/",
+   "source": "Grist",
+   "published": "2026-11-24T09:15:00.000Z",
+   "category": "Policy"
+  },
+  {
+   "title": "Rainfall alone cannot eliminate bird-dropping soiling on solar panels, study finds",
+   "link": "https://www.pv-magazine.com/2026/11/24/rainfall-alone-cannot-eliminate-bird-dropping-soiling-on-solar-panels-study-finds/",
+   "source": "pv magazine",
+   "published": "2026-11-24T09:15:00.000Z",
+   "category": "Solar"
+  },
+  {
+   "title": "'Urgent action' needed to protect lake",
+   "link": "https://www.bbc.co.uk/news/articles/cr78271e5j91o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-24T09:10:43.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "North Carolina utility regulators punt on clean transition tariff — again",
+   "link": "https://www.canarymedia.com/articles/clean-energy/north-carolina-clean-transition-tariff-punt",
+   "source": "Canary Media",
+   "published": "2026-11-24T08:30:00.000Z",
+   "category": "EVs & transport"
+  },
+  {
+   "title": "Japanese utility to forecast perovskite window output with AI",
+   "link": "https://www.pv-magazine.com/2026/11/24/japanese-utility-to-forecast-perovskite-window-output-with-ai/",
+   "source": "pv magazine",
+   "published": "2026-11-24T08:30:00.000Z",
+   "category": "Clean energy"
+  },
+  {
+   "title": "Researchers find up to 2.28% annual wave-induced losses in floating PV systems",
+   "link": "https://www.pv-magazine.com/2026/11/24/researchers-find-up-to-2-28-annual-wave-induced-losses-in-floating-pv-systems/",
+   "source": "pv magazine",
+   "published": "2026-11-24T08:00:00.000Z",
+   "category": "Solar"
+  },
+  {
+   "title": "Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
+   "source": "The Guardian",
+   "published": "2026-11-24T07:42:57.000Z",
+   "category": "Policy"
+  },
+  {
+   "title": "Elders in Bali renew push against new offshore gas terminal",
+   "link": "https://news.mongabay.com/2026/11/elders-in-bali-renew-push-against-new-offshore-gas-terminal/",
+   "source": "Mongabay",
+   "published": "2026-11-24T07:42:36.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "ECO2 Systems unveils 40 kW CO2 heat pump for commercial hot water applications",
+   "link": "https://www.pv-magazine.com/2026/11/24/eco2-systems-unveils-40-kw-co2-heat-pump-for-commercial-hot-water-applications/",
+   "source": "pv magazine",
+   "published": "2026-11-24T07:30:00.000Z",
+   "category": "Home energy"
+  },
+  {
+   "title": "Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit",
+   "link": "https://www.pv-magazine.com/2026/11/24/tongwei-unveils-oversized-solar-plus-storage-solution-to-boost-pv-capacity-credit/",
+   "source": "pv magazine",
+   "published": "2026-11-24T07:00:00.000Z",
+   "category": "Solar"
+  },
+  {
+   "title": "Indonesian Borneo’s forests go quiet as smoke silences gibbons. Their singing matters",
+   "link": "https://news.mongabay.com/2026/11/indonesian-borneos-forests-go-quiet-as-smoke-silences-gibbons-their-singing-matter/",
+   "source": "Mongabay",
+   "published": "2026-11-24T06:57:07.000Z",
+   "category": "Nature"
+  },
+  {
+   "title": "Chinese startup offers foldable off-grid solar EV charger",
+   "link": "https://www.pv-magazine.com/2026/11/24/gaotu-unveils-foldable-off-grid-solar-ev-charger/",
+   "source": "pv magazine",
+   "published": "2026-11-24T06:48:05.000Z",
+   "category": "Solar"
+  },
+  {
+   "title": "BloombergNEF forecasts 215 GW of solar in Australia by 2050",
+   "link": "https://www.pv-magazine.com/2026/11/24/bloombergnef-forecasts-215-gw-of-solar-in-australia-by-2050/",
+   "source": "pv magazine",
+   "published": "2026-11-24T06:46:42.000Z",
+   "category": "Solar"
+  },
+  {
+   "title": "The e-bike industry has a horsepower problem",
+   "link": "https://electrek.co/2026/11/23/the-e-bike-industry-has-a-horsepower-problem/",
+   "source": "Electrek",
+   "published": "2026-11-24T06:38:11.000Z",
+   "category": "EVs & transport"
+  },
+  {
+   "title": "Delia Smith joins opponents of £1.2bn data centre",
+   "link": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-24T06:36:26.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "CalWave and SKF join forces for deployment of fully submerged wave energy systems",
+   "link": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/calwave-and-skf-join-forces-for-deployment-of-fully-submerged-wave-energy-systems/",
+   "source": "Renewable Energy World",
+   "published": "2026-11-24T06:30:00.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Goats drafted in to tame Greenwich Park slope",
+   "link": "https://www.bbc.co.uk/news/articles/cq4gn2vde8m8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-24T06:16:51.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Bush dogs are very rare. You’re 100x more likely to see a jaguar",
+   "link": "https://news.mongabay.com/short-article/2026/11/bush-dogs-are-very-rare-youre-100x-more-likely-to-see-a-jaguar/",
+   "source": "Mongabay",
+   "published": "2026-11-24T06:08:50.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "A year of deadly floods and fires – and yet Cop31 still collapsed. When will our leaders grasp the scale of this crisis? | Bill McGuire",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/24/deadly-floods-fires-cop31-collapsed-climate-crisis",
+   "source": "The Guardian",
+   "published": "2026-11-24T06:00:08.000Z",
+   "category": "Policy"
+  },
+  {
+   "title": "Timor-Leste issues guidelines for whale-watching, but malpractice is rife as industry booms",
+   "link": "https://news.mongabay.com/2026/11/timor-leste-issues-guidelines-for-whale-watching-but-malpractice-is-rife-as-industry-booms/",
+   "source": "Mongabay",
+   "published": "2026-11-24T04:56:04.000Z",
+   "category": "Nature"
+  },
+  {
+   "title": "Solar Industry Supports BAAJA While Environmental Orgs Oppose It",
+   "link": "https://cleantechnica.com/2026/11/23/solar-industry-supports-baaja-while-environmental-orgs-oppose-it/",
+   "source": "CleanTechnica",
+   "published": "2026-11-24T01:50:33.000Z",
+   "category": "Solar"
+  },
+  {
+   "title": "Robert Macfarlane says trust in Cop to deliver change on climate is ‘misplaced’",
+   "link": "https://www.theguardian.com/environment/2026/nov/24/robert-macfarlane-trust-cop-climate-summit-deliver-change-misplaced",
+   "source": "The Guardian",
+   "published": "2026-11-24T00:01:00.000Z",
+   "category": "Climate"
+  },
   {
    "title": "An Alabama Pipeline Exploded. Its Owner Is Fighting To Expand It.",
    "link": "https://insideclimatenews.org/news/23112026/alabama-pipeline-explosion/",
@@ -44,7 +219,7 @@
    "category": "Policy"
   },
   {
-   "title": "Army Wants to Detonate Lead Explosives in Iowa Despite Court Ruling",
+   "title": "Court Decision Clears Way for Army to Detonate Lead Explosives in Iowa",
    "link": "https://insideclimatenews.org/news/23112026/iowa-army-lead-explosives-detonation/",
    "source": "Inside Climate News",
    "published": "2026-11-23T20:56:48.000Z",
@@ -65,11 +240,11 @@
    "category": "Policy"
   },
   {
-   "title": "COP 31 Plants A Big Wet Kiss On Failed Carbon Capture Technology",
+   "title": "COP31 Plants A Big Wet Kiss On Failed Carbon Capture Technology",
    "link": "https://cleantechnica.com/2026/11/23/cop-31-plants-a-big-wet-kiss-on-failed-carbon-capture-technology/",
    "source": "CleanTechnica",
    "published": "2026-11-23T20:05:11.000Z",
-   "category": "Climate"
+   "category": "Policy"
   },
   {
    "title": "Subaru is cutting EV prices by dropping one of its most distinctive features",
@@ -163,13 +338,6 @@
    "category": "Clean energy"
   },
   {
-   "title": "Analysis: The collapse of UN climate talks, over fossil fuels, was years in the making",
-   "link": "https://news.mongabay.com/short-article/2026/11/analysis-the-collapse-of-un-climate-talks-over-fossil-fuels-was-years-in-the-making/",
-   "source": "Mongabay",
-   "published": "2026-11-23T17:34:45.000Z",
-   "category": "Climate"
-  },
-  {
    "title": "What failure of COP31 reveals about a divided world",
    "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -226,27 +394,6 @@
    "category": "Policy"
   },
   {
-   "title": "Honduras starts paying solar prosumers for excess power",
-   "link": "https://www.pv-magazine.com/2026/11/23/honduras-starts-paying-solar-prosumers-for-excess-power/",
-   "source": "pv magazine",
-   "published": "2026-11-23T16:01:00.000Z",
-   "category": "Solar"
-  },
-  {
-   "title": "Tesla FSD v15 is AI4’s last shot as Musk reveals how little compute is left",
-   "link": "https://electrek.co/2026/11/23/tesla-fsd-v15-ai4-last-shot-compute-limit/",
-   "source": "Electrek",
-   "published": "2026-11-23T16:00:53.000Z",
-   "category": "EVs & transport"
-  },
-  {
-   "title": "Village's concern over sewage discharge in dry river",
-   "link": "https://www.bbc.co.uk/news/articles/c60rkq78g05vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-23T15:48:07.000Z",
-   "category": "Nature"
-  },
-  {
    "title": "California on edge as high tides and floods set to wreak havoc over Thanksgiving. Here is what to know",
    "link": "https://www.theguardian.com/us-news/2026/nov/23/california-high-tides-floods-weather-thanksgiving",
    "source": "The Guardian",
@@ -261,73 +408,10 @@
    "category": "Climate"
   },
   {
-   "title": "Colombia president’s move on mining, oil weakens country’s Amazon protections, experts warn",
-   "link": "https://news.mongabay.com/2026/11/colombia-presidents-move-on-mining-oil-weakens-countrys-amazon-protections-experts-warn/",
-   "source": "Mongabay",
-   "published": "2026-11-23T14:19:44.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "Plant-based lunches could cut Australia’s emissions by 15m tonnes, new research shows",
-   "link": "https://www.theguardian.com/environment/2026/nov/23/plant-based-lunches-could-cut-australia-emissions-by-15m-tonnes-new-research-shows",
-   "source": "The Guardian",
-   "published": "2026-11-23T13:58:01.000Z",
-   "category": "Climate"
-  },
-  {
    "title": "Pondering The Potential Of Plug-In VPP",
    "link": "https://cleantechnica.com/2026/11/23/pondering-the-potential-of-plug-in-vpp/",
    "source": "CleanTechnica",
    "published": "2026-11-23T13:54:07.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "Three Green Hydrogen Projects Slip Through The Trump Chopper",
-   "link": "https://cleantechnica.com/2026/11/23/green-hydrogen-us-energy-policy-plug-power-powercell/",
-   "source": "CleanTechnica",
-   "published": "2026-11-23T13:37:39.000Z",
-   "category": "Clean energy"
-  },
-  {
-   "title": "‘We had to reinvent the system completely,’ Brazilian philanthropy leader says",
-   "link": "https://news.mongabay.com/2026/11/we-had-to-reinvent-the-system-completely-brazilian-philanthropy-leader-says/",
-   "source": "Mongabay",
-   "published": "2026-11-23T12:50:10.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "Failure of Cop31 prompts calls for urgent reform of UN climate summits",
-   "link": "https://www.theguardian.com/environment/2026/nov/23/failure-cop31-calls-urgent-reform-un-climate-summits",
-   "source": "The Guardian",
-   "published": "2026-11-23T12:21:23.000Z",
-   "category": "Policy"
-  },
-  {
-   "title": "Lebanon looks to ramp up solar, storage deployments",
-   "link": "https://www.pv-magazine.com/2026/11/23/lebanon-looks-to-ramp-up-solar-storage-deployments/",
-   "source": "pv magazine",
-   "published": "2026-11-23T12:09:36.000Z",
-   "category": "Solar"
-  },
-  {
-   "title": "Warming seas threaten South Korea’s iconic squid fishery with collapse by 2040s",
-   "link": "https://news.mongabay.com/short-article/2026/11/warming-seas-threaten-south-koreas-iconic-squid-fishery-with-collapse-by-2040s/",
-   "source": "Mongabay",
-   "published": "2026-11-23T12:02:44.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "Wind-driven spray system cools, cleans solar panels",
-   "link": "https://www.pv-magazine.com/2026/11/23/wind-driven-spray-system-cools-cleans-solar-panels/",
-   "source": "pv magazine",
-   "published": "2026-11-23T12:00:00.000Z",
-   "category": "Solar"
-  },
-  {
-   "title": "Arctic air brings colder temperatures to Europe this week",
-   "link": "https://www.theguardian.com/environment/2026/nov/23/arctic-air-colder-temperatures-europe-this-week",
-   "source": "The Guardian",
-   "published": "2026-11-23T11:59:03.000Z",
    "category": "Climate"
   },
   {
@@ -343,20 +427,6 @@
    "source": "Renewable Energy World",
    "published": "2026-11-23T11:00:00.000Z",
    "category": "Climate"
-  },
-  {
-   "title": "Europe turns negative electricity prices into a flexibility signal",
-   "link": "https://www.pv-magazine.com/2026/11/23/europe-turns-negative-electricity-prices-into-a-flexibility-signal/",
-   "source": "pv magazine",
-   "published": "2026-11-23T10:45:00.000Z",
-   "category": "Clean energy"
-  },
-  {
-   "title": "Jordan plans 200 MW solar, 100 MW/400 MWh storage projects",
-   "link": "https://www.pv-magazine.com/2026/11/23/jordan-plans-200-mw-solar-100-mw-400-mwh-storage-projects/",
-   "source": "pv magazine",
-   "published": "2026-11-23T10:36:16.000Z",
-   "category": "Solar"
   },
   {
    "title": "Climate Hope",
@@ -387,20 +457,6 @@
    "category": "Climate"
   },
   {
-   "title": "Hydrogen shifts summer solar to winter in Japanese apartment building",
-   "link": "https://www.pv-magazine.com/2026/11/23/hydrogen-shifts-summer-solar-to-winter-in-japanese-apartment-building/",
-   "source": "pv magazine",
-   "published": "2026-11-23T09:15:00.000Z",
-   "category": "Solar"
-  },
-  {
-   "title": "Saudi Arabia expands self-consumption rules to 50 MW",
-   "link": "https://www.pv-magazine.com/2026/11/23/saudi-arabia-expands-self-consumption-rules-to-50-mw/",
-   "source": "pv magazine",
-   "published": "2026-11-23T09:14:42.000Z",
-   "category": "Climate"
-  },
-  {
    "title": "Want 24/7 clean power for data centers? Try giant heat batteries.",
    "link": "https://www.canarymedia.com/articles/batteries/24-7-clean-power-giant-heat-batteries",
    "source": "Canary Media",
@@ -408,25 +464,11 @@
    "category": "Climate"
   },
   {
-   "title": "US Senate passes permitting bill letting solar developers sue agencies",
-   "link": "https://www.pv-magazine.com/2026/11/23/us-senate-passes-permitting-bill-letting-solar-developers-sue-agencies/",
-   "source": "pv magazine",
-   "published": "2026-11-23T08:15:00.000Z",
-   "category": "Solar"
-  },
-  {
    "title": "Five takeaways from the failed climate talks COP31",
    "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-23T06:33:50.000Z",
    "category": "Policy"
-  },
-  {
-   "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-   "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-23T05:15:06.000Z",
-   "category": "Climate"
   },
   {
    "title": "UN’s COP31 Climate Conference Fizzles Out as Global Policy Divides Deepen",
@@ -462,48 +504,6 @@
    "source": "Grist",
    "published": "2026-11-21T14:00:00.000Z",
    "category": "Clean energy"
-  },
-  {
-   "title": "He Sacrificed Everything to Stop Industrial Water Pollution. Authorities in Texas Don’t Care.",
-   "link": "https://insideclimatenews.org/news/21112026/texas-wont-enforce-plastic-discharge-ban/",
-   "source": "Inside Climate News",
-   "published": "2026-11-21T10:00:00.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "What Democrats Can Learn About Environmental Voters From the Midterms",
-   "link": "https://insideclimatenews.org/news/21112026/midterms-environmental-voters/",
-   "source": "Inside Climate News",
-   "published": "2026-11-21T09:55:00.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "Why tribal rights have become key to the energy permitting debate",
-   "link": "https://www.canarymedia.com/articles/land-use/tribal-rights-energy-permitting-debate",
-   "source": "Canary Media",
-   "published": "2026-11-20T21:30:00.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "Trump EPA keeps trying to kill Solar for All despite court losses",
-   "link": "https://www.canarymedia.com/articles/solar/trump-epa-solar-for-all",
-   "source": "Canary Media",
-   "published": "2026-11-20T17:22:00.000Z",
-   "category": "Solar"
-  },
-  {
-   "title": "New York awards ports $230M in repurposed offshore wind grants",
-   "link": "https://www.canarymedia.com/articles/offshore-wind/new-york-ports-get-230m-boost-for-offshore-wind-other-industries",
-   "source": "Canary Media",
-   "published": "2026-11-20T16:15:00.000Z",
-   "category": "Clean energy"
-  },
-  {
-   "title": "Senate OKs permitting bill that would boost clean and dirty energy",
-   "link": "https://www.canarymedia.com/articles/clean-energy/senate-oks-permitting-bill-that-would-boost-clean-and-dirty-energy",
-   "source": "Canary Media",
-   "published": "2026-11-20T14:00:00.000Z",
-   "category": "Policy"
   }
  ]
 }
