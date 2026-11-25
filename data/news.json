@@ -1,68 +1,418 @@
 {
- "updated": "2026-11-25T08:27:50.459Z",
+ "updated": "2026-11-25T21:39:36.930Z",
  "items": [
   {
-   "title": "Research shows solar module ETFE frontsheets suffer higher soiling losses than glass",
-   "link": "https://www.pv-magazine.com/2026/11/25/research-shows-solar-module-ethylene-tetrafluoroethylene-frontsheets-suffer-higher-soiling-losses-than-glass/",
-   "source": "pv magazine",
-   "published": "2026-11-25T08:00:00.000Z",
-   "category": "Solar"
+   "title": "Kia, Lucid, and Volkswagen are slashing EV prices by $10,000+ for Black Friday",
+   "link": "https://electrek.co/2026/11/25/kia-lucid-vw-slash-ev-prices-by-10000-black-friday/",
+   "source": "Electrek",
+   "published": "2026-11-25T21:31:38.000Z",
+   "category": "EVs & transport"
   },
   {
-   "title": "French startup develops air-based photovoltaic-thermal solar dryer for agricultural, forestry applications",
-   "link": "https://www.pv-magazine.com/2026/11/25/french-startup-develops-air-based-photovoltaic-thermal-solar-dryer-for-agricultural-forestry-applications/",
-   "source": "pv magazine",
-   "published": "2026-11-25T07:47:55.000Z",
-   "category": "Solar"
-  },
-  {
-   "title": "What’s the most sustainable way to eat fish? Forget it. There isn’t one | George Monbiot",
-   "link": "https://www.theguardian.com/commentisfree/2026/nov/25/sustainable-fishing-conservation-charities-ecosystems-health",
-   "source": "The Guardian",
-   "published": "2026-11-25T07:00:09.000Z",
+   "title": "Brazil’s President Lula moves to recognize Chief Raoni’s Indigenous land",
+   "link": "https://news.mongabay.com/short-article/2026/11/brazils-president-lula-moves-to-recognize-chief-raonis-indigenous-land/",
+   "source": "Mongabay",
+   "published": "2026-11-25T21:26:23.000Z",
    "category": "Climate"
   },
   {
-   "title": "Researchers test new tech to help bring solar and storage to apartments",
-   "link": "https://www.pv-magazine.com/2026/11/25/researchers-test-new-tech-to-help-bring-solar-and-storage-to-apartments/",
-   "source": "pv magazine",
-   "published": "2026-11-25T06:59:53.000Z",
-   "category": "Solar"
+   "title": "After Detonating Five Tons of Lead Explosives, Army Says Health Risks Are ‘Close to Zero’",
+   "link": "https://insideclimatenews.org/news/25112026/iowa-lead-explosives-health-risks-close-to-zero/",
+   "source": "Inside Climate News",
+   "published": "2026-11-25T21:24:20.000Z",
+   "category": "Climate"
   },
   {
-   "title": "Huge fly-tip grew undetected over several months",
-   "link": "https://www.bbc.co.uk/news/articles/cqzjr4m9ljzxo?at_medium=RSS&at_campaign=rss",
+   "title": "Tesla quietly sets up a company at German machine maker EMAG’s HQ",
+   "link": "https://electrek.co/2026/11/25/tesla-emag-germany-machining-company-optimus/",
+   "source": "Electrek",
+   "published": "2026-11-25T21:00:40.000Z",
+   "category": "EVs & transport"
+  },
+  {
+   "title": "Kenyan communities take on Nigerian billionaire’s $16 billion refinery project as court adjourns hearing",
+   "link": "https://news.mongabay.com/short-article/2026/11/kenyan-communities-take-on-nigerian-billionaires-16-billion-refinery-project-as-court-adjourns-hearing/",
+   "source": "Mongabay",
+   "published": "2026-11-25T20:16:51.000Z",
+   "category": "Policy"
+  },
+  {
+   "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
+   "link": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
-   "published": "2026-11-25T06:14:26.000Z",
+   "published": "2026-11-25T20:11:46.000Z",
    "category": "Climate"
   },
   {
-   "title": "Dolphins with active social lives and big friendship groups live longer, Australian researchers discover",
-   "link": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer",
+   "title": "Joint Letter on the Revision of the CO₂ Emission Standards for Cars & Vans",
+   "link": "https://cleantechnica.com/2026/11/25/joint-letter-on-the-revision-of-the-co%e2%82%82-emission-standards-for-cars-vans/",
+   "source": "CleanTechnica",
+   "published": "2026-11-25T20:11:12.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Toyota is about to unveil its first extended-range EV, and it looks like the Highlander",
+   "link": "https://electrek.co/2026/11/25/toyota-reveal-first-erev-looks-like-highlander/",
+   "source": "Electrek",
+   "published": "2026-11-25T20:07:07.000Z",
+   "category": "EVs & transport"
+  },
+  {
+   "title": "High levels of salmonella found in some products from nation’s biggest turkey producer",
+   "link": "https://www.theguardian.com/environment/2026/nov/25/turkey-salmonella-butterball",
    "source": "The Guardian",
-   "published": "2026-11-25T06:02:05.000Z",
+   "published": "2026-11-25T20:00:34.000Z",
    "category": "Climate"
   },
   {
-   "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+   "title": "Despite heavy rains, farmers hope for a viable waterleaf harvest in Nigeria",
+   "link": "https://news.mongabay.com/2026/11/despite-heavy-rains-farmers-hope-for-a-viable-waterleaf-harvest-in-nigeria/",
+   "source": "Mongabay",
+   "published": "2026-11-25T20:00:31.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+   "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-25T19:54:52.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "King tides bring record coastal flooding to California",
+   "link": "https://yaleclimateconnections.org/2026/11/king-tides-bring-record-coastal-flooding-to-california/",
+   "source": "Yale Climate Connections",
+   "published": "2026-11-25T19:51:10.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Worx 40V 20-inch cordless snow blower + 2x batteries $350 low, Anker SOLIX E10 system exclusive new lows from $3,609, more",
+   "link": "https://electrek.co/2026/11/25/worx-40v-20-inch-cordless-snow-blower-anker-solix-e10-system-more/",
+   "source": "Electrek",
+   "published": "2026-11-25T19:00:00.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Hyundai IONIQ 3 Crowned Small Car of the Year at the TopGear.com Awards 2027",
+   "link": "https://cleantechnica.com/2026/11/25/hyundai-ioniq-3-crowned-small-car-of-the-year-at-the-topgear-com-awards-2027/",
+   "source": "CleanTechnica",
+   "published": "2026-11-25T18:48:18.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "American factories are competing with data centers for power — This Week in Cleantech",
+   "link": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/american-factories-are-competing-with-data-centers-for-power-this-week-in-cleantech/",
+   "source": "Renewable Energy World",
+   "published": "2026-11-25T18:34:36.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Hyundai IONIQ 3 spotted on US roads: Is the affordable EV coming to the US? [update]",
+   "link": "https://electrek.co/2026/11/25/hyundai-ioniq-3-spotted-us-affordable-ev-update/",
+   "source": "Electrek",
+   "published": "2026-11-25T18:31:28.000Z",
+   "category": "EVs & transport"
+  },
+  {
+   "title": "Cloud of smoke seen after US army detonates bomb-making chemicals in Iowa – video",
+   "link": "https://www.theguardian.com/us-news/video/2026/nov/25/cloud-of-smoke-seen-after-us-army-detonates-bomb-making-chemicals-in-iowa-video",
+   "source": "The Guardian",
+   "published": "2026-11-25T18:30:56.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Smoke seen from a mile away as army detonates US stockpile of bomb-making chemicals in Iowa",
+   "link": "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide",
+   "source": "The Guardian",
+   "published": "2026-11-25T18:24:48.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Michigan just hit pause on a plan to update the controversial Line 5 oil pipeline",
+   "link": "https://grist.org/energy/michigan-line-5-permit-pause-straits-of-mackinac-oil-pipeline/",
+   "source": "Grist",
+   "published": "2026-11-25T17:52:27.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Nations hail new shark finning rules in the Atlantic. Conservationists say Japan blocked better ones",
+   "link": "https://news.mongabay.com/2026/11/nations-hail-new-shark-finning-rules-in-the-atlantic-conservationists-say-japan-blocked-better-ones/",
+   "source": "Mongabay",
+   "published": "2026-11-25T17:52:18.000Z",
+   "category": "Nature"
+  },
+  {
+   "title": "The Suzuki Ignis is back, and this time it will be a low-cost EV sold globally [Images]",
+   "link": "https://electrek.co/2026/11/25/suzuki-revives-ignis-low-cost-global-ev-images/",
+   "source": "Electrek",
+   "published": "2026-11-25T17:46:20.000Z",
+   "category": "EVs & transport"
+  },
+  {
+   "title": "Un “Nor’easter” durante el Día de Acción de Gracias traerá vientos huracanados, lluvias torrenciales y niveles del agua cercanos a máximos históricos",
+   "link": "https://yaleclimateconnections.org/2026/11/un-noreaster-durante-el-dia-de-accion-de-gracias-traera-vientos-huracanados-lluvias-torrenciales-y-niveles-del-agua-cercanos-a-maximos-historicos/",
+   "source": "Yale Climate Connections",
+   "published": "2026-11-25T17:37:07.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Europe’s Inland Shipping Models Underprice Green Fuels. Market Prices Favor Battery Swapping.",
+   "link": "https://cleantechnica.com/2026/11/25/inland-shipping-hvo-prices-battery-swapping/",
+   "source": "CleanTechnica",
+   "published": "2026-11-25T17:33:56.000Z",
+   "category": "Clean energy"
+  },
+  {
+   "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
    "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
-   "published": "2026-11-25T06:00:36.000Z",
+   "published": "2026-11-25T17:30:16.000Z",
    "category": "Climate"
   },
   {
-   "title": "Deadly accidents loom over labor dispute at Indonesia’s largest nickel hub",
-   "link": "https://news.mongabay.com/2026/11/deadly-accidents-loom-over-labor-dispute-at-indonesias-largest-nickel-hub/",
+   "title": "VW ID. Cross R-Line Now Available to Order: Model Launch with 99 kW, Flagship Model with 166 kW to Follow",
+   "link": "https://cleantechnica.com/2026/11/25/vw-id-cross-r-line-now-available-to-order-model-launch-with-99-kw-flagship-model-with-166-kw-to-follow/",
+   "source": "CleanTechnica",
+   "published": "2026-11-25T17:26:14.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "As Indonesia burns, communities look to fire-free agriculture for relief",
+   "link": "https://news.mongabay.com/2026/11/as-indonesia-burns-communities-look-to-fire-free-agriculture-for-relief/",
    "source": "Mongabay",
-   "published": "2026-11-25T04:49:46.000Z",
+   "published": "2026-11-25T17:25:38.000Z",
    "category": "Climate"
   },
   {
-   "title": "China's Shenzhou-24 carries Pakistan's first astronaut into space",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-25T04:46:23.000Z",
+   "title": "Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents",
+   "link": "https://news.mongabay.com/short-article/2026/11/army-blows-up-bomb-chemicals-in-iowa-despite-fears-a-toxic-plume-could-endanger-residents/",
+   "source": "Mongabay",
+   "published": "2026-11-25T17:22:07.000Z",
    "category": "Climate"
+  },
+  {
+   "title": "US Army calls Iowa lead detonation a ‘huge success’ and says threat of spontaneous explosions has been ‘eliminated’ – as it happened",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/25/iowa-lead-azide-detonation-army-explosion-bomb-live-updates",
+   "source": "The Guardian",
+   "published": "2026-11-25T17:20:49.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Record-breaking California tides cause major flooding of roads and businesses",
+   "link": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
+   "source": "The Guardian",
+   "published": "2026-11-25T17:20:26.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Guest Idea: A Mariner, ChatGPT, and a Warming Ocean",
+   "link": "https://earth911.com/business-policy/guest-idea-a-mariner-chatgpt-and-a-warming-ocean/",
+   "source": "Earth911",
+   "published": "2026-11-25T16:34:48.000Z",
+   "category": "Nature"
+  },
+  {
+   "title": "Media reaction: Who is to blame for COP31 ‘failure’?",
+   "link": "https://www.carbonbrief.org/media-reaction-who-is-to-blame-for-cop31-failure",
+   "source": "Carbon Brief",
+   "published": "2026-11-25T16:09:13.000Z",
+   "category": "Policy"
+  },
+  {
+   "title": "Mammotion LUBA Mini 2 AWD robot mower $1,599 low, EGO Multi-Head string trimmer $300 low + portable area light $199, more",
+   "link": "https://electrek.co/2026/11/25/mammotion-luba-mini-2-awd-robot-mower-ego-multi-head-string-trimmer-portable-area-light-more/",
+   "source": "Electrek",
+   "published": "2026-11-25T16:06:34.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "A ‘stunning,’ colorful bird losing ground to deforestation and climate change: Study",
+   "link": "https://news.mongabay.com/2026/11/a-stunning-colorful-bird-losing-ground-to-deforestation-and-climate-change-study/",
+   "source": "Mongabay",
+   "published": "2026-11-25T16:00:59.000Z",
+   "category": "Nature"
+  },
+  {
+   "title": "EU pushes back Tesla ‘Full Self-Driving’ vote meeting again, now set for December 15",
+   "link": "https://electrek.co/2026/11/25/eu-delays-tesla-fsd-vote-december-15-tcmv/",
+   "source": "Electrek",
+   "published": "2026-11-25T15:45:37.000Z",
+   "category": "EVs & transport"
+  },
+  {
+   "title": "Canadian astronaut welcomes baby girl from space station",
+   "link": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-25T15:41:39.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Ireland approves 1,367 MW of solar in sixth renewables auction",
+   "link": "https://www.pv-magazine.com/2026/11/25/ress-6-provisional-results-solar-pv-ireland/",
+   "source": "pv magazine",
+   "published": "2026-11-25T15:37:20.000Z",
+   "category": "Solar"
+  },
+  {
+   "title": "Italy awards 16 GWh of battery storage in second auction",
+   "link": "https://www.pv-magazine.com/2026/11/25/italy-awards-16-gwh-of-battery-storage-in-second-auction/",
+   "source": "pv magazine",
+   "published": "2026-11-25T15:32:57.000Z",
+   "category": "Clean energy"
+  },
+  {
+   "title": "What becomes of orphaned solar? | Q&A with Otovo",
+   "link": "https://www.renewableenergyworld.com/solar/residential/what-becomes-of-orphaned-solar-qa-with-otovo/",
+   "source": "Renewable Energy World",
+   "published": "2026-11-25T15:28:29.000Z",
+   "category": "Solar"
+  },
+  {
+   "title": "World has six consecutive days 2C above preindustrial levels for first time",
+   "link": "https://www.theguardian.com/environment/2026/nov/25/world-six-consecutive-days-2c-above-preindustrial-levels-first-time",
+   "source": "The Guardian",
+   "published": "2026-11-25T14:52:30.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Tesla Is Not The Only Automaker To Join The Space Race",
+   "link": "https://cleantechnica.com/2026/11/25/ford-revolution-space-race-satellites-investors-investing/",
+   "source": "CleanTechnica",
+   "published": "2026-11-25T14:17:51.000Z",
+   "category": "EVs & transport"
+  },
+  {
+   "title": "A Disappointing UN Climate Summit Concludes With Little Action on Food Systems",
+   "link": "https://insideclimatenews.org/news/25112026/a-disappointing-un-climate-summit-concludes-with-little-action-on-food-systems/",
+   "source": "Inside Climate News",
+   "published": "2026-11-25T14:12:51.000Z",
+   "category": "Low-waste living"
+  },
+  {
+   "title": "Swiss tourist killed and British and Americans injured by elephants in Cameroon",
+   "link": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
+   "source": "The Guardian",
+   "published": "2026-11-25T14:03:18.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Divided and displaced: Brazil’s Kaingang people wait for an end to illegal leasing conflict",
+   "link": "https://news.mongabay.com/2026/11/divided-and-displaced-brazils-kaingang-people-wait-for-an-end-to-illegal-leasing-conflict/",
+   "source": "Mongabay",
+   "published": "2026-11-25T13:31:35.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "UtmoLight, UNSW achieve 19.6% efficiency for 2.81 m² perovskite solar module",
+   "link": "https://www.pv-magazine.com/2026/11/25/utmolight-unsw-achieve-19-6-efficiency-for-2-81-m%c2%b2-perovskite-solar-module/",
+   "source": "pv magazine",
+   "published": "2026-11-25T13:29:00.000Z",
+   "category": "Solar"
+  },
+  {
+   "title": "Poweroad unveils modular LFP battery system with up to 245.76 kWh of storage",
+   "link": "https://www.pv-magazine.com/2026/11/25/poweroad-unveils-modular-lfp-battery-system-with-up-to-245-76-kwh-of-storage/",
+   "source": "pv magazine",
+   "published": "2026-11-25T13:22:48.000Z",
+   "category": "Clean energy"
+  },
+  {
+   "title": "UK small-scale battery deployment set to double annual record in 2026",
+   "link": "https://www.pv-magazine.com/2026/11/25/uk-small-scale-battery-deployment-set-to-double-annual-record-in-2026/",
+   "source": "pv magazine",
+   "published": "2026-11-25T13:15:00.000Z",
+   "category": "Clean energy"
+  },
+  {
+   "title": "Afore unveils all-in-one propane heat pump for residential applications",
+   "link": "https://www.pv-magazine.com/2026/11/25/afore-unveils-all-in-one-propane-heat-pump-for-residential-applications/",
+   "source": "pv magazine",
+   "published": "2026-11-25T13:09:16.000Z",
+   "category": "Home energy"
+  },
+  {
+   "title": "Belgium forecast to reach 28.6 GW of solar by 2035",
+   "link": "https://www.pv-magazine.com/2026/11/25/belgium-forecast-to-reach-28-6-gw-of-solar-by-2035/",
+   "source": "pv magazine",
+   "published": "2026-11-25T13:00:00.000Z",
+   "category": "Solar"
+  },
+  {
+   "title": "Greenvolt Power breaks ground at its biggest US solar and battery storage project to date",
+   "link": "https://www.pv-magazine.com/2026/11/25/greenvolt-power-breaks-ground-at-its-biggest-us-solar-and-battery-storage-project-to-date/",
+   "source": "pv magazine",
+   "published": "2026-11-25T12:00:00.000Z",
+   "category": "Solar"
+  },
+  {
+   "title": "Low-interest loans help Vermont towns recover from devastating floods",
+   "link": "https://yaleclimateconnections.org/2026/11/low-interest-loans-help-vermont-towns-recover-from-devastating-floods/",
+   "source": "Yale Climate Connections",
+   "published": "2026-11-25T11:59:00.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Bill McKibben: 2027 may be the year Americans turn on fossil fuels – Stateside with Kai and Carter",
+   "link": "https://www.theguardian.com/us-news/video/2026/nov/25/bill-mckibben-americans-fossil-fuels-climate-emergency-stateside-podcast",
+   "source": "The Guardian",
+   "published": "2026-11-25T11:00:45.000Z",
+   "category": "Policy"
+  },
+  {
+   "title": "COP31 leaders warn grids and storage can’t keep pace with renewable energy growth",
+   "link": "https://www.renewableenergyworld.com/power-grid/cop31-leaders-warn-grids-and-storage-cant-keep-pace-with-renewable-energy-growth/",
+   "source": "Renewable Energy World",
+   "published": "2026-11-25T11:00:00.000Z",
+   "category": "Clean energy"
+  },
+  {
+   "title": "Storm Costs Are Sending Maine’s Power Bills Soaring",
+   "link": "https://insideclimatenews.org/news/25112026/maine-storms-power-bill-costs/",
+   "source": "Inside Climate News",
+   "published": "2026-11-25T10:00:00.000Z",
+   "category": "Policy"
+  },
+  {
+   "title": "Maryland Regulators, Air Force Squabble Over Fuel Spill and Golf Course at Joint Base Andrews",
+   "link": "https://insideclimatenews.org/news/25112026/joint-base-andrews-jet-fuel-spill-cleanup-golf-course-renovation/",
+   "source": "Inside Climate News",
+   "published": "2026-11-25T09:55:00.000Z",
+   "category": "Policy"
+  },
+  {
+   "title": "New Paper Challenges Cruelty Exemptions for Food-Producing Animals",
+   "link": "https://insideclimatenews.org/news/25112026/agriculture-animal-cruelty-exemptions/",
+   "source": "Inside Climate News",
+   "published": "2026-11-25T09:50:00.000Z",
+   "category": "Nature"
+  },
+  {
+   "title": "As food prices rise, do shoppers still care about sustainability?",
+   "link": "https://grist.org/economics/as-food-prices-rise-do-shoppers-still-care-about-sustainability/",
+   "source": "Grist",
+   "published": "2026-11-25T09:45:00.000Z",
+   "category": "Low-waste living"
+  },
+  {
+   "title": "The ‘drill, baby, drill’ Democrat who will soon help oversee Texas’ oil industry",
+   "link": "https://grist.org/elections/jon-rosenthal-texas-railroad-commission-orphaned-wells/",
+   "source": "Grist",
+   "published": "2026-11-25T09:30:00.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "These Maine heat-pump owners will get discounted power this winter",
+   "link": "https://www.canarymedia.com/articles/heat-pumps/maine-heat-pump-winter-discount",
+   "source": "Canary Media",
+   "published": "2026-11-25T08:30:00.000Z",
+   "category": "Climate"
+  },
+  {
+   "title": "Uber drivers are flocking to EVs amid high gas prices",
+   "link": "https://www.canarymedia.com/articles/electric-vehicles/uber-drivers-flocking-to-evs",
+   "source": "Canary Media",
+   "published": "2026-11-25T08:30:00.000Z",
+   "category": "EVs & transport"
   },
   {
    "title": "Tesla & SpaceX Merger Nears With Big Moves From The Boards",
@@ -72,27 +422,6 @@
    "category": "EVs & transport"
   },
   {
-   "title": "Study reveals rising ‘double threat’ of wildfire smoke and heatwaves in Indonesia",
-   "link": "https://news.mongabay.com/2026/11/study-reveals-rising-double-threat-of-wildfire-smoke-and-heatwaves-in-indonesia/",
-   "source": "Mongabay",
-   "published": "2026-11-25T02:15:02.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "Will there be a White Christmas this year?",
-   "link": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-25T01:03:24.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "The rising cost of putting food on the table in India",
-   "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-25T01:02:13.000Z",
-   "category": "Low-waste living"
-  },
-  {
    "title": "Changing of the Guard: Chinese Automakers Overtake Japanese in 6 More Markets",
    "link": "https://cleantechnica.com/2026/11/24/changing-of-the-guard-chinese-automakers-overtake-japanese-in-6-more-markets/",
    "source": "CleanTechnica",
@@ -100,24 +429,10 @@
    "category": "Climate"
   },
   {
-   "title": "Species down to the last 50 animals can recover, but rarely without help",
-   "link": "https://news.mongabay.com/short-article/2026/11/species-down-to-the-last-50-animals-can-recover-but-rarely-without-help/",
-   "source": "Mongabay",
-   "published": "2026-11-25T00:17:59.000Z",
-   "category": "Nature"
-  },
-  {
    "title": "San Francisco Bay Area Braces for Record Coastal Flooding",
    "link": "https://insideclimatenews.org/news/24112026/san-francisco-bay-area-coastal-flooding/",
    "source": "Inside Climate News",
    "published": "2026-11-25T00:07:57.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "Coastal areas in England at risk of erosion to receive £11m in new funding",
-   "link": "https://www.theguardian.com/environment/2026/nov/25/coastal-areas-england-at-risk-erosion-11m-funding-drones-ea",
-   "source": "The Guardian",
-   "published": "2026-11-25T00:01:01.000Z",
    "category": "Climate"
   },
   {
@@ -128,17 +443,10 @@
    "category": "Climate"
   },
   {
-   "title": "What to know about the Army’s plan to detonate 5 tons of lead in Iowa",
+   "title": "What to know about the Army’s lead detonation in Iowa",
    "link": "https://grist.org/grist-news/what-to-know-about-the-armys-plan-to-detonate-5-tons-of-lead-in-iowa/",
    "source": "Grist",
    "published": "2026-11-24T23:40:14.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "California ‘king tides’ stress test San Francisco as low-lying areas flood",
-   "link": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
-   "source": "The Guardian",
-   "published": "2026-11-24T23:20:24.000Z",
    "category": "Climate"
   },
   {
@@ -149,73 +457,10 @@
    "category": "Climate"
   },
   {
-   "title": "Digital Outages Are Rampant All Across America. Is AI to blame?",
-   "link": "https://cleantechnica.com/2026/11/24/digital-outages-are-rampant-all-across-america-is-ai-to-blame/",
-   "source": "CleanTechnica",
-   "published": "2026-11-24T22:25:39.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "Cadillac’s luxury 3-row EV just got more expensive, now starting at over $80,000",
-   "link": "https://electrek.co/2026/11/24/cadillacs-3-row-ev-more-expensive-now-starting-at-80k/",
-   "source": "Electrek",
-   "published": "2026-11-24T22:20:15.000Z",
-   "category": "EVs & transport"
-  },
-  {
-   "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
-   "link": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
-   "source": "The Guardian",
-   "published": "2026-11-24T22:09:57.000Z",
-   "category": "Policy"
-  },
-  {
-   "title": "Iowa braces for controlled bomb blast: ‘We had only five days of warning’",
-   "link": "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving",
-   "source": "The Guardian",
-   "published": "2026-11-24T21:49:07.000Z",
-   "category": "Climate"
-  },
-  {
    "title": "Why the future of energy belongs to the lived experience, with Jessica O. Matthews",
    "link": "https://www.renewableenergyworld.com/power-grid/future-of-energy-jessica-o-matthews/",
    "source": "Renewable Energy World",
    "published": "2026-11-24T21:06:38.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "VW will pay EV drivers in Germany up to €720 to plug in at home",
-   "link": "https://electrek.co/2026/11/24/vw-will-pay-ev-drivers-in-germany-up-to-e720-to-plug-in-at-home/",
-   "source": "Electrek",
-   "published": "2026-11-24T20:28:22.000Z",
-   "category": "EVs & transport"
-  },
-  {
-   "title": "Rotterdam’s Methanol Expansion Is Not an Inland Shipping Fuel Strategy",
-   "link": "https://cleantechnica.com/2026/11/24/rotterdams-methanol-expansion-is-not-an-inland-shipping-fuel-strategy/",
-   "source": "CleanTechnica",
-   "published": "2026-11-24T20:27:51.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "Hyundai IONIQ 3 spotted on US roads: Is the affordable EV coming to the US? [Images]",
-   "link": "https://electrek.co/2026/11/24/hyundai-ioniq-3-spotted-us-affordable-ev-images/",
-   "source": "Electrek",
-   "published": "2026-11-24T20:07:39.000Z",
-   "category": "EVs & transport"
-  },
-  {
-   "title": "‘We don’t want it’: First Nations reject plan to release mining waste into water source",
-   "link": "https://news.mongabay.com/podcast/2026/11/we-dont-want-it-first-nations-reject-plan-to-release-mining-waste-into-water-source/",
-   "source": "Mongabay",
-   "published": "2026-11-24T19:53:25.000Z",
-   "category": "Low-waste living"
-  },
-  {
-   "title": "Clean Port Coalition Urges EU To Accelerate Port Electrification",
-   "link": "https://cleantechnica.com/2026/11/24/clean-port-coalition-urges-eu-to-accelerate-port-electrification/",
-   "source": "CleanTechnica",
-   "published": "2026-11-24T19:22:44.000Z",
    "category": "Climate"
   },
   {
@@ -226,80 +471,10 @@
    "category": "Clean energy"
   },
   {
-   "title": "Toxic Port Pollution Costs Europe €2.5bn A Year In Health & Environmental Damages — Study",
-   "link": "https://cleantechnica.com/2026/11/24/toxic-port-pollution-costs-europe-e2-5bn-a-year-in-health-environmental-damages-study/",
-   "source": "CleanTechnica",
-   "published": "2026-11-24T19:14:35.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "Bluetti Elite 300 power station exclusively at $1,044, ECOVACS LiDAR Pro robot mower lows from $949, GoTrax kids go kart, more",
-   "link": "https://electrek.co/2026/11/24/bluetti-elite-300-power-station-ecovacs-lidar-pro-robot-mower-gotrax-go-kart-more/",
-   "source": "Electrek",
-   "published": "2026-11-24T19:00:00.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "How a feminist lens is shaping my climate reporting (commentary)",
-   "link": "https://news.mongabay.com/2026/11/how-a-feminist-lens-is-shaping-my-climate-reporting-commentary/",
-   "source": "Mongabay",
-   "published": "2026-11-24T18:35:59.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "BYD in talks to buy Ineos’ French factory as Grenadier moves to US",
-   "link": "https://electrek.co/2026/11/24/byd-ineos-hambach-factory-france-grenadier-us/",
-   "source": "Electrek",
-   "published": "2026-11-24T17:58:40.000Z",
-   "category": "EVs & transport"
-  },
-  {
-   "title": "Clouded tiger cats are notoriously hard to catch. This young researcher caught seven",
-   "link": "https://news.mongabay.com/2026/11/clouded-tiger-cats-are-notoriously-hard-to-catch-this-young-researcher-caught-seven/",
-   "source": "Mongabay",
-   "published": "2026-11-24T17:41:52.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "Army: Entire U.S. stockpile of lead azide is at Iowa plant and set to be detonated Wednesday morning",
-   "link": "https://news.mongabay.com/short-article/2026/11/army-entire-u-s-stockpile-of-lead-azide-is-at-iowa-plant-and-set-to-be-detonated-wednesday-morning/",
-   "source": "Mongabay",
-   "published": "2026-11-24T17:35:17.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "Two tech companies tried to reinvent the e-bike. Why DJI’s Amflow soared while Rivian’s ALSO floundered",
-   "link": "https://electrek.co/2026/11/24/two-tech-companies-tried-to-reinvent-the-e-bike-why-djis-amflow-soared-while-rivians-also-floundered/",
-   "source": "Electrek",
-   "published": "2026-11-24T17:19:16.000Z",
-   "category": "EVs & transport"
-  },
-  {
-   "title": "90 New Vehicle Models Were Just Introduced in Colombia’s Largest Automotive Exhibition. 55 Were Electric.",
-   "link": "https://cleantechnica.com/2026/11/24/90-new-vehicle-models-were-just-introduced-in-colombias-largest-automotive-exhibition-55-were-electric/",
-   "source": "CleanTechnica",
-   "published": "2026-11-24T17:19:11.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "The Porsche Boxster EV is finally almost here, and it will be the most powerful 718 yet [Images]",
-   "link": "https://electrek.co/2026/11/24/porsche-boxster-ev-coming-most-powerful-718-ever-images/",
-   "source": "Electrek",
-   "published": "2026-11-24T17:16:08.000Z",
-   "category": "EVs & transport"
-  },
-  {
    "title": "CB Live: Carbon Brief journalists discuss key COP31 outcomes",
    "link": "https://www.carbonbrief.org/cb-live-carbon-brief-journalists-discuss-key-cop31-outcomes",
    "source": "Carbon Brief",
    "published": "2026-11-24T17:06:20.000Z",
-   "category": "Policy"
-  },
-  {
-   "title": "Ecuador’s bioeconomy plan vows sustainability, but faces a test of government priorities",
-   "link": "https://news.mongabay.com/2026/11/ecuadors-bioeconomy-plan-vows-sustainability-but-faces-a-test-of-government-priorities/",
-   "source": "Mongabay",
-   "published": "2026-11-24T17:03:56.000Z",
    "category": "Policy"
   },
   {
@@ -317,69 +492,6 @@
    "category": "Policy"
   },
   {
-   "title": "Trump says he ‘protected’ Musk in first term after ‘a tough incident’ – what could it be?",
-   "link": "https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/",
-   "source": "Electrek",
-   "published": "2026-11-24T16:24:11.000Z",
-   "category": "Policy"
-  },
-  {
-   "title": "France may tie 5.5% solar VAT rate to RG5 hail resistance",
-   "link": "https://www.pv-magazine.com/2026/11/24/france-may-tie-5-5-solar-vat-rate-to-rg5-hail-resistance/",
-   "source": "pv magazine",
-   "published": "2026-11-24T14:30:04.000Z",
-   "category": "Solar"
-  },
-  {
-   "title": "Outcry grows over Labour plan to exempt most brownfield sites from nature protection rules",
-   "link": "https://www.theguardian.com/politics/2026/nov/24/outcry-uk-plans-to-exempt-brownfield-sites-nature-protection-rules",
-   "source": "The Guardian",
-   "published": "2026-11-24T14:00:47.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "Algeria’s solar capacity surpasses 1 GW",
-   "link": "https://www.pv-magazine.com/2026/11/24/algerias-solar-capacity-surpasses-1-gw/",
-   "source": "pv magazine",
-   "published": "2026-11-24T13:45:31.000Z",
-   "category": "Solar"
-  },
-  {
-   "title": "Gokin Solar launches 510 W all-black BC panel with 25.0% efficiency",
-   "link": "https://www.pv-magazine.com/2026/11/24/gorkin-solar-launches-510-w-all-black-bc-panel-with-25-0-efficiency/",
-   "source": "pv magazine",
-   "published": "2026-11-24T13:30:17.000Z",
-   "category": "Solar"
-  },
-  {
-   "title": "The Climate Generation at COP31",
-   "link": "https://insideclimatenews.org/news/24112026/the-climate-generation-at-cop31/",
-   "source": "Inside Climate News",
-   "published": "2026-11-24T13:30:00.000Z",
-   "category": "Policy"
-  },
-  {
-   "title": "Felicity Solar showcases 20 kWh low-voltage residential battery",
-   "link": "https://www.pv-magazine.com/2026/11/24/felicity-solar-showcases-20-kwh-low-voltage-residential-battery/",
-   "source": "pv magazine",
-   "published": "2026-11-24T12:47:08.000Z",
-   "category": "Solar"
-  },
-  {
-   "title": "Summer heat deaths in 2026 reached record high of 5,258 in England",
-   "link": "https://www.theguardian.com/environment/2026/nov/24/summer-heat-deaths-record-high-england",
-   "source": "The Guardian",
-   "published": "2026-11-24T12:39:50.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "Differ Power unveils ‘9-in-1’ solar-storage heat pump",
-   "link": "https://www.pv-magazine.com/2026/11/24/differ-power-unveils-9-in-1-solar-storage-heat-pump/",
-   "source": "pv magazine",
-   "published": "2026-11-24T12:29:38.000Z",
-   "category": "Solar"
-  },
-  {
    "title": "Indigenous communities push back against mining for clean energy",
    "link": "https://yaleclimateconnections.org/2026/11/indigenous-communities-push-back-against-mining-for-clean-energy/",
    "source": "Yale Climate Connections",
@@ -392,118 +504,6 @@
    "source": "Yale Climate Connections",
    "published": "2026-11-24T11:59:00.000Z",
    "category": "Solar"
-  },
-  {
-   "title": "As Wildfires Stress Montana’s Insurance Market, the State is Getting Harder to Call Home",
-   "link": "https://insideclimatenews.org/news/24112026/montana-wildfire-insurance-costs/",
-   "source": "Inside Climate News",
-   "published": "2026-11-24T10:00:00.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "A walkable city of tomorrow is growing in suburban Utah",
-   "link": "https://grist.org/cities/utah-city-walkable-growing-vineyard/",
-   "source": "Grist",
-   "published": "2026-11-24T09:45:00.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "Voters are fed up with for-profit utilities, but they keep rejecting ‘public power’",
-   "link": "https://grist.org/elections/public-power-ballot-kitsap-county-washington-ann-arbor-michigan/",
-   "source": "Grist",
-   "published": "2026-11-24T09:30:00.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "Nepal hoped for flood aid at COP31. It got nothing.",
-   "link": "https://grist.org/cop31/nepal-glacier-flood-cop31-climate-finance/",
-   "source": "Grist",
-   "published": "2026-11-24T09:15:00.000Z",
-   "category": "Policy"
-  },
-  {
-   "title": "North Carolina utility regulators punt on clean transition tariff — again",
-   "link": "https://www.canarymedia.com/articles/clean-energy/north-carolina-clean-transition-tariff-punt",
-   "source": "Canary Media",
-   "published": "2026-11-24T08:30:00.000Z",
-   "category": "EVs & transport"
-  },
-  {
-   "title": "CalWave and SKF join forces for deployment of fully submerged wave energy systems",
-   "link": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/calwave-and-skf-join-forces-for-deployment-of-fully-submerged-wave-energy-systems/",
-   "source": "Renewable Energy World",
-   "published": "2026-11-24T06:30:00.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "An Alabama Pipeline Exploded. Its Owner Is Fighting To Expand It.",
-   "link": "https://insideclimatenews.org/news/23112026/alabama-pipeline-explosion/",
-   "source": "Inside Climate News",
-   "published": "2026-11-23T23:11:10.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "RE+ was huge this year. Here are 3 solar innovations that stood out.",
-   "link": "https://www.canarymedia.com/articles/solar/re-convention-solar-innovations",
-   "source": "Canary Media",
-   "published": "2026-11-23T23:00:00.000Z",
-   "category": "Solar"
-  },
-  {
-   "title": "Is our solar really ‘American-made?’ — This Week in Cleantech",
-   "link": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/is-our-solar-really-american-made-this-week-in-cleantech/",
-   "source": "Renewable Energy World",
-   "published": "2026-11-23T21:35:06.000Z",
-   "category": "Solar"
-  },
-  {
-   "title": "How COP31 became climate diplomacy’s ‘darkest moment’",
-   "link": "https://grist.org/cop31/how-cop31-became-climate-diplomacys-darkest-moment/",
-   "source": "Grist",
-   "published": "2026-11-23T21:14:22.000Z",
-   "category": "Policy"
-  },
-  {
-   "title": "Court Decision Clears Way for Army to Detonate Lead Explosives in Iowa",
-   "link": "https://insideclimatenews.org/news/23112026/iowa-army-lead-explosives-detonation/",
-   "source": "Inside Climate News",
-   "published": "2026-11-23T20:56:48.000Z",
-   "category": "Policy"
-  },
-  {
-   "title": "Snowy 2.0 was never going to be cheap. But it will be much cheaper than relying on batteries for storage",
-   "link": "https://www.renewableenergyworld.com/energy-storage/pumped-storage/snowy-2-0-was-never-going-to-be-cheap-but-it-will-be-much-cheaper-than-relying-on-batteries-for-storage/",
-   "source": "Renewable Energy World",
-   "published": "2026-11-23T20:43:07.000Z",
-   "category": "Clean energy"
-  },
-  {
-   "title": "Ohio OKs gas plant for data centers despite local voter backlash",
-   "link": "https://www.canarymedia.com/articles/data-centers/ohio-oks-gas-plant-for-data-centers",
-   "source": "Canary Media",
-   "published": "2026-11-23T19:00:00.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "What’s causing major coastal flooding in California?",
-   "link": "https://yaleclimateconnections.org/2026/11/whats-causing-major-coastal-flooding-in-california/",
-   "source": "Yale Climate Connections",
-   "published": "2026-11-23T17:55:00.000Z",
-   "category": "Climate"
-  },
-  {
-   "title": "COP31: Key outcomes agreed at the UN climate talks in Antalya",
-   "link": "https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya",
-   "source": "Carbon Brief",
-   "published": "2026-11-23T16:15:51.000Z",
-   "category": "Policy"
-  },
-  {
-   "title": "Colorado ski hill struggles to stay open as winters warm",
-   "link": "https://yaleclimateconnections.org/2026/11/colorado-ski-hill-struggles-to-stay-open-as-winters-warm/",
-   "source": "Yale Climate Connections",
-   "published": "2026-11-23T11:59:00.000Z",
-   "category": "Climate"
   }
  ]
 }
